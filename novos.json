@@ -1,5 +1,9 @@
 [
   {
+    "appid": 990080,
+    "name": "Hogwarts Legacy"
+  },
+  {
     "appid": 3595230,
     "name": "Call of Duty®: Modern Warfare® II"
   },
@@ -114,9 +118,5 @@
   {
     "appid": 3404260,
     "name": "Dead as Disco"
-  },
-  {
-    "appid": 3772080,
-    "name": "İblis3:Phenomena"
   }
 ]
