@@ -1,5 +1,9 @@
 [
   {
+    "appid": 2300320,
+    "name": "Farming Simulator 25"
+  },
+  {
     "appid": 990080,
     "name": "Hogwarts Legacy"
   },
@@ -114,9 +118,5 @@
   {
     "appid": 2416450,
     "name": "MOUSE: P.I. For Hire"
-  },
-  {
-    "appid": 3404260,
-    "name": "Dead as Disco"
   }
 ]
