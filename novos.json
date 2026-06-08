@@ -1,5 +1,15 @@
 [
   {
+    "appid": 1145360,
+    "name": "Hades",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg?t=1758127023"
+  },
+  {
+    "appid": 1145350,
+    "name": "Hades II",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/91ac334a2c137d08968ccc0bc474a02579602100/header.jpg?t=1779901265"
+  },
+  {
     "appid": 2300320,
     "name": "Farming Simulator 25",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/c2a205133d23cd24faf3c152d972a1d0177661b8/header.jpg?t=1780401832"
@@ -138,15 +148,5 @@
     "appid": 3981100,
     "name": "Leaf it Alone",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3981100/843d859123e902ca5c15ff53200c4bcb780c3304/header.jpg?t=1768491802"
-  },
-  {
-    "appid": 3041230,
-    "name": "Windrose",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/7e838d87d787735d5d29d72777c5ee55653dfb2b/header.jpg?t=1777529081"
-  },
-  {
-    "appid": 2416450,
-    "name": "MOUSE: P.I. For Hire",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2416450/298ff2fc3f6a700d022b8d3ec58047f2b426be03/header.jpg?t=1780271651"
   }
 ]
