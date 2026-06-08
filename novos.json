@@ -1,5 +1,30 @@
 [
   {
+    "appid": 2668510,
+    "name": "Red Dead Redemption",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668510/header.jpg?t=1741118459"
+  },
+  {
+    "appid": 1151640,
+    "name": "Horizon Zero Dawn™ Complete Edition",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/header.jpg?t=1776465788"
+  },
+  {
+    "appid": 2215430,
+    "name": "Ghost of Tsushima DIRECTOR'S CUT",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg?t=1763409398"
+  },
+  {
+    "appid": 1174180,
+    "name": "Red Dead Redemption 2",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961"
+  },
+  {
+    "appid": 271590,
+    "name": "Grand Theft Auto V Legacy",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg?t=1765387725"
+  },
+  {
     "appid": 2622380,
     "name": "ELDEN RING NIGHTREIGN",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622380/header.jpg?t=1773099036"
@@ -123,30 +148,5 @@
     "appid": 3797340,
     "name": "Anomalous Coffee Machine 2",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3797340/b57da816c2bb5862e1cad31bdf34fe18d4137178/header.jpg?t=1773234679"
-  },
-  {
-    "appid": 2353060,
-    "name": "Invincible VS",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2353060/8cd8eff0576c0503650c611cd0ef76faf905d13d/header.jpg?t=1778289865"
-  },
-  {
-    "appid": 1910150,
-    "name": "Walk of Life",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1910150/c7c47eef965ae90f6699012a51ce0b01eb09b584/header.jpg?t=1779103738"
-  },
-  {
-    "appid": 1709880,
-    "name": "Loco Motive",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1709880/8319eaa2cfff218794d011a470e66016076e952b/header.jpg?t=1778778284"
-  },
-  {
-    "appid": 3373660,
-    "name": "Look Outside",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3373660/7af754cc405af7db9396a0c1bedff8e7fd213198/header.jpg?t=1773940368"
-  },
-  {
-    "appid": 2483190,
-    "name": "Forza Horizon 6",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/27abb1584a118d50d0e3950fd48d557c51981db7/header.jpg?t=1780597114"
   }
 ]
