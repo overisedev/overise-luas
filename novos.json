@@ -1,5 +1,65 @@
 [
   {
+    "appid": 242550,
+    "name": "Rayman® Legends",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242550/header.jpg?t=1777993594"
+  },
+  {
+    "appid": 1310970,
+    "name": "RussianPunk 2007",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1310970/header.jpg?t=1779337005"
+  },
+  {
+    "appid": 1095480,
+    "name": "Operation Valor",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095480/header.jpg?t=1751559815"
+  },
+  {
+    "appid": 298110,
+    "name": "Far Cry® 4",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/header.jpg?t=1778697412"
+  },
+  {
+    "appid": 2500750,
+    "name": "Only Climb: Better Together",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2500750/header.jpg?t=1781000152"
+  },
+  {
+    "appid": 812140,
+    "name": "Assassin's Creed® Odyssey",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812140/header.jpg?t=1777476997"
+  },
+  {
+    "appid": 2473710,
+    "name": "Abyss School",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473710/header.jpg?t=1769606941"
+  },
+  {
+    "appid": 2522520,
+    "name": "Only Up: With Friends",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2522520/header.jpg?t=1775505651"
+  },
+  {
+    "appid": 1997930,
+    "name": "One Playtest",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1997930/header.jpg?t=1654387475"
+  },
+  {
+    "appid": 1105810,
+    "name": "Onset",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105810/header.jpg?t=1693334544"
+  },
+  {
+    "appid": 1267310,
+    "name": "[Chilla's Art] Onryo | 怨霊",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1267310/header.jpg?t=1662352138"
+  },
+  {
+    "appid": 1366810,
+    "name": "AccrO",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1366810/header.jpg?t=1706006538"
+  },
+  {
     "appid": 15560,
     "name": "AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/15560/header.jpg?t=1581730007"
@@ -88,65 +148,5 @@
     "appid": 2527500,
     "name": "MiSide",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527500/header.jpg?t=1775398413"
-  },
-  {
-    "appid": 2130460,
-    "name": "FATAL FRAME / PROJECT ZERO: Mask of the Lunar Eclipse",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2130460/header.jpg?t=1776994726"
-  },
-  {
-    "appid": 2369390,
-    "name": "Far Cry® 6",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369390/header.jpg?t=1758656170"
-  },
-  {
-    "appid": 3717330,
-    "name": "Yakuza Kiwami",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717330/07bf98df23eb154febbf878a79ff02b915b6cc43/header.jpg?t=1768478720"
-  },
-  {
-    "appid": 1363080,
-    "name": "Manor Lords",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/header.jpg?t=1779785894"
-  },
-  {
-    "appid": 1149460,
-    "name": "ICARUS",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149460/header.jpg?t=1772745915"
-  },
-  {
-    "appid": 389140,
-    "name": "Horizon Chase Turbo",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389140/header.jpg?t=1780329689"
-  },
-  {
-    "appid": 1129580,
-    "name": "Medieval Dynasty",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1129580/header.jpg?t=1780911519"
-  },
-  {
-    "appid": 2322010,
-    "name": "God of War Ragnarök",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/header.jpg?t=1776465233"
-  },
-  {
-    "appid": 1413480,
-    "name": "Shin Megami Tensei III Nocturne HD Remaster",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1413480/header.jpg?t=1763531118"
-  },
-  {
-    "appid": 1551360,
-    "name": "Forza Horizon 5",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg?t=1746471508"
-  },
-  {
-    "appid": 1771300,
-    "name": "Kingdom Come: Deliverance II",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg?t=1777975568"
-  },
-  {
-    "appid": 3768760,
-    "name": "007 First Light",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/dbe86ebd2edb4c77d113e9e2feefeb90189fabc9/header.jpg?t=1780990824"
   }
 ]
