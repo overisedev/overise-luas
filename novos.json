@@ -1,5 +1,110 @@
 [
   {
+    "appid": 15560,
+    "name": "AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/15560/header.jpg?t=1581730007"
+  },
+  {
+    "appid": 212480,
+    "name": "Sonic & All-Stars Racing Transformed Collection",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212480/header.jpg?t=1762752125"
+  },
+  {
+    "appid": 2075720,
+    "name": "9 Days",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075720/ec67261f08ee430ba9dafe347740d07ff0ff8aa5/header.jpg?t=1768469864"
+  },
+  {
+    "appid": 1367590,
+    "name": "Tormented Souls",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1367590/header.jpg?t=1751362774"
+  },
+  {
+    "appid": 1384160,
+    "name": "GUILTY GEAR -STRIVE-",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/23a7b8f8c96b47ab7ef5f22f33b572a63aaf9fab/header.jpg?t=1778742247"
+  },
+  {
+    "appid": 1317020,
+    "name": "77p egg: Eggwife",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1317020/header.jpg?t=1777061680"
+  },
+  {
+    "appid": 2377520,
+    "name": "2D Dogfight",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2377520/header.jpg?t=1720553049"
+  },
+  {
+    "appid": 2464280,
+    "name": "Tormented Souls 2",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2464280/401e7ffcb495e5cc721c67be4d5a7511b9113dac/header.jpg?t=1777646724"
+  },
+  {
+    "appid": 2147950,
+    "name": "4D Golf",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2147950/header.jpg?t=1777396201"
+  },
+  {
+    "appid": 1131450,
+    "name": "Above Earth",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1131450/header.jpg?t=1709671858"
+  },
+  {
+    "appid": 200260,
+    "name": "Batman: Arkham City - Game of the Year Edition",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200260/header.jpg?t=1745964057"
+  },
+  {
+    "appid": 1865060,
+    "name": "14 Minesweeper Variants",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865060/header.jpg?t=1719325192"
+  },
+  {
+    "appid": 2988580,
+    "name": "Yakuza 0 Director's Cut",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2988580/aaceda0f5c16fce191e63f7342d07323e86a1156/header.jpg?t=1768478617"
+  },
+  {
+    "appid": 3717340,
+    "name": "Yakuza Kiwami 2",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717340/894621031b664c828e8114c42934a098e38d182b/header.jpg?t=1768478664"
+  },
+  {
+    "appid": 753640,
+    "name": "Outer Wilds",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/079ae4a7ff4b5875adc5c63c4c0b84e5a3e6966b/header.jpg?t=1779137571"
+  },
+  {
+    "appid": 1015140,
+    "name": "10 Miles To Safety",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1015140/header.jpg?t=1603320845"
+  },
+  {
+    "appid": 1372110,
+    "name": "JoJo's Bizarre Adventure: All-Star Battle R",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1372110/header.jpg?t=1720409046"
+  },
+  {
+    "appid": 2527500,
+    "name": "MiSide",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527500/header.jpg?t=1775398413"
+  },
+  {
+    "appid": 2130460,
+    "name": "FATAL FRAME / PROJECT ZERO: Mask of the Lunar Eclipse",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2130460/header.jpg?t=1776994726"
+  },
+  {
+    "appid": 2369390,
+    "name": "Far Cry® 6",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369390/header.jpg?t=1758656170"
+  },
+  {
+    "appid": 3717330,
+    "name": "Yakuza Kiwami",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717330/07bf98df23eb154febbf878a79ff02b915b6cc43/header.jpg?t=1768478720"
+  },
+  {
     "appid": 1363080,
     "name": "Manor Lords",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/header.jpg?t=1779785894"
@@ -20,14 +125,14 @@
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1129580/header.jpg?t=1780911519"
   },
   {
-    "appid": 1413480,
-    "name": "Shin Megami Tensei III Nocturne HD Remaster",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1413480/header.jpg?t=1763531118"
-  },
-  {
     "appid": 2322010,
     "name": "God of War Ragnarök",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/header.jpg?t=1776465233"
+  },
+  {
+    "appid": 1413480,
+    "name": "Shin Megami Tensei III Nocturne HD Remaster",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1413480/header.jpg?t=1763531118"
   },
   {
     "appid": 1551360,
@@ -43,110 +148,5 @@
     "appid": 3768760,
     "name": "007 First Light",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/dbe86ebd2edb4c77d113e9e2feefeb90189fabc9/header.jpg?t=1780990824"
-  },
-  {
-    "appid": 12210,
-    "name": "Grand Theft Auto IV: The Complete Edition",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg?t=1721061564"
-  },
-  {
-    "appid": 3017860,
-    "name": "DOOM: The Dark Ages",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3017860/header.jpg?t=1780932051"
-  },
-  {
-    "appid": 2668510,
-    "name": "Red Dead Redemption",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668510/header.jpg?t=1741118459"
-  },
-  {
-    "appid": 1151640,
-    "name": "Horizon Zero Dawn™ Complete Edition",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/header.jpg?t=1776465788"
-  },
-  {
-    "appid": 2215430,
-    "name": "Ghost of Tsushima DIRECTOR'S CUT",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg?t=1763409398"
-  },
-  {
-    "appid": 1174180,
-    "name": "Red Dead Redemption 2",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961"
-  },
-  {
-    "appid": 271590,
-    "name": "Grand Theft Auto V Legacy",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg?t=1765387725"
-  },
-  {
-    "appid": 2622380,
-    "name": "ELDEN RING NIGHTREIGN",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622380/header.jpg?t=1773099036"
-  },
-  {
-    "appid": 2186990,
-    "name": "Fatekeeper",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186990/4a98bac064656da89ddf8dedee1acd39405cac14/header_alt_assets_0.jpg?t=1780927614"
-  },
-  {
-    "appid": 1145360,
-    "name": "Hades",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg?t=1758127023"
-  },
-  {
-    "appid": 1145350,
-    "name": "Hades II",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/91ac334a2c137d08968ccc0bc474a02579602100/header.jpg?t=1779901265"
-  },
-  {
-    "appid": 2300320,
-    "name": "Farming Simulator 25",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/c2a205133d23cd24faf3c152d972a1d0177661b8/header.jpg?t=1780401832"
-  },
-  {
-    "appid": 990080,
-    "name": "Hogwarts Legacy",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/a3cdc6f40d97df8ac993679c2dd1edeb5222421e/header.jpg?t=1778797474"
-  },
-  {
-    "appid": 3595230,
-    "name": "Call of Duty®: Modern Warfare® II",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595230/ce4d5e53b36cb9d3c4309d1df72bf8663bbbc7ef/header.jpg?t=1778886532"
-  },
-  {
-    "appid": 3907880,
-    "name": "Thunder Spikes Volleyball",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3907880/be9ac86370d717cb6f06fbea116da713acfec865/header.jpg?t=1779993556"
-  },
-  {
-    "appid": 3892270,
-    "name": "Gamble With Your Friends",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1778274309"
-  },
-  {
-    "appid": 275850,
-    "name": "No Man's Sky",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/dd8237b8ab283a8225a6ba3fc0dee7e1b135cbee/header_alt_assets_25.jpg?t=1779908213"
-  },
-  {
-    "appid": 1771310,
-    "name": "Ghost Tokyo",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771310/header.jpg?t=1634023134"
-  },
-  {
-    "appid": 1118520,
-    "name": "Paralives",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118520/277ab7a2ad1bbce0f4837bb37a3c86d109bd5258/header.jpg?t=1780764457"
-  },
-  {
-    "appid": 360430,
-    "name": "Mafia III: Definitive Edition",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/360430/header.jpg?t=1756420682"
-  },
-  {
-    "appid": 1941540,
-    "name": "Mafia: The Old Country",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/94d3af12b91008d0ec0e872a2d5aeb61ac941a93/header_alt_assets_1.jpg?t=1780699604"
   }
 ]
