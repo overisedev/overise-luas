@@ -1,5 +1,15 @@
 [
   {
+    "appid": 418370,
+    "name": "Resident Evil 7 Biohazard",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418370/header.jpg?t=1778464947"
+  },
+  {
+    "appid": 1593500,
+    "name": "God of War",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412"
+  },
+  {
     "appid": 1297900,
     "name": "Gothic 1 Remake",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/6bc8c205a107e552f14631524f25cdf88743515a/header.jpg?t=1780965412"
@@ -138,15 +148,5 @@
     "appid": 1372110,
     "name": "JoJo's Bizarre Adventure: All-Star Battle R",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1372110/header.jpg?t=1720409046"
-  },
-  {
-    "appid": 2527500,
-    "name": "MiSide",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527500/header.jpg?t=1775398413"
-  },
-  {
-    "appid": 3717330,
-    "name": "Yakuza Kiwami",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717330/07bf98df23eb154febbf878a79ff02b915b6cc43/header.jpg?t=1768478720"
   }
 ]
