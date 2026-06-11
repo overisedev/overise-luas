@@ -1,5 +1,10 @@
 [
   {
+    "appid": 3357650,
+    "name": "PRAGMATA",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357650/e32e168b25ed68a0cf6264c220c07e96c2abfb56/header.jpg?t=1777351016"
+  },
+  {
     "appid": 601150,
     "name": "Devil May Cry 5",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601150/header.jpg?t=1768869803"
@@ -143,10 +148,5 @@
     "appid": 212480,
     "name": "Sonic & All-Stars Racing Transformed Collection",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212480/header.jpg?t=1762752125"
-  },
-  {
-    "appid": 15560,
-    "name": "AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/15560/header.jpg?t=1581730007"
   }
 ]
