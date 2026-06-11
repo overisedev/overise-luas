@@ -1,5 +1,35 @@
 [
   {
+    "appid": 1173790,
+    "name": "FINAL FANTASY III",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1173790/header.jpg?t=1773283339"
+  },
+  {
+    "appid": 1173810,
+    "name": "FINAL FANTASY V",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1173810/header.jpg?t=1773291829"
+  },
+  {
+    "appid": 1173770,
+    "name": "FINAL FANTASY",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1173770/header.jpg?t=1773222642"
+  },
+  {
+    "appid": 1173800,
+    "name": "FINAL FANTASY IV",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1173800/header.jpg?t=1773825482"
+  },
+  {
+    "appid": 1173780,
+    "name": "FINAL FANTASY II",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1173780/header.jpg?t=1773222959"
+  },
+  {
+    "appid": 382900,
+    "name": "FINAL FANTASY VI (Old ver.)",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/382900/header.jpg?t=1627488014"
+  },
+  {
     "appid": 1597080,
     "name": "Killer Bean",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1597080/6a3e5f6ab36d5b8e42652294c615de30f68720c2/header.jpg?t=1780927030"
@@ -118,35 +148,5 @@
     "appid": 1366810,
     "name": "AccrO",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1366810/header.jpg?t=1706006538"
-  },
-  {
-    "appid": 15560,
-    "name": "AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/15560/header.jpg?t=1581730007"
-  },
-  {
-    "appid": 212480,
-    "name": "Sonic & All-Stars Racing Transformed Collection",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212480/header.jpg?t=1762752125"
-  },
-  {
-    "appid": 2075720,
-    "name": "9 Days",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075720/ec67261f08ee430ba9dafe347740d07ff0ff8aa5/header.jpg?t=1768469864"
-  },
-  {
-    "appid": 1367590,
-    "name": "Tormented Souls",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1367590/header.jpg?t=1751362774"
-  },
-  {
-    "appid": 1384160,
-    "name": "GUILTY GEAR -STRIVE-",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/23a7b8f8c96b47ab7ef5f22f33b572a63aaf9fab/header.jpg?t=1778742247"
-  },
-  {
-    "appid": 1317020,
-    "name": "77p egg: Eggwife",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1317020/header.jpg?t=1777061680"
   }
 ]
