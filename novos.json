@@ -1,5 +1,10 @@
 [
   {
+    "appid": 1370140,
+    "name": "Kao the Kangaroo",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1370140/header.jpg?t=1773929872"
+  },
+  {
     "appid": 9870,
     "name": "App 9870",
     "img": ""
@@ -143,10 +148,5 @@
     "appid": 1597080,
     "name": "Killer Bean",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1597080/6a3e5f6ab36d5b8e42652294c615de30f68720c2/header.jpg?t=1781379774"
-  },
-  {
-    "appid": 2947440,
-    "name": "SILENT HILL f",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2947440/7e5d923ac622bd1775ebc9b5d4b5b0a24bf5ed40/header.jpg?t=1770169624"
   }
 ]
