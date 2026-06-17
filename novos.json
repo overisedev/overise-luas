@@ -1,5 +1,10 @@
 [
   {
+    "appid": 1567440,
+    "name": "inbento",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1567440/header.jpg?t=1762941557"
+  },
+  {
     "appid": 824270,
     "name": "KovaaK's",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/824270/header.jpg?t=1774631479"
@@ -143,10 +148,5 @@
     "appid": 1173780,
     "name": "FINAL FANTASY II",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1173780/header.jpg?t=1773222959"
-  },
-  {
-    "appid": 382900,
-    "name": "FINAL FANTASY VI (Old ver.)",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/382900/header.jpg?t=1627488014"
   }
 ]
