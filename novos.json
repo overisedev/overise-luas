@@ -1,5 +1,10 @@
 [
   {
+    "appid": 1877020,
+    "name": "Jujutsu Kaisen Cursed Clash",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1877020/header.jpg?t=1734085250"
+  },
+  {
     "appid": 2466900,
     "name": "The Posthumous Investigation",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2466900/eecefe89e55d21ba0e9e73bad97988ad106082a9/header.jpg?t=1777005768"
@@ -127,7 +132,7 @@
   {
     "appid": 1805110,
     "name": "Solarpunk™",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805110/9512e707770080499c95c50976ff1b6f712a95ba/header.jpg?t=1780935129"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805110/9512e707770080499c95c50976ff1b6f712a95ba/header.jpg?t=1781774673"
   },
   {
     "appid": 1058450,
@@ -143,10 +148,5 @@
     "appid": 1173790,
     "name": "FINAL FANTASY III",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1173790/header.jpg?t=1773283339"
-  },
-  {
-    "appid": 1173810,
-    "name": "FINAL FANTASY V",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1173810/header.jpg?t=1773291829"
   }
 ]
