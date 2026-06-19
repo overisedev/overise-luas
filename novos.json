@@ -1,5 +1,10 @@
 [
   {
+    "appid": 203770,
+    "name": "Crusader Kings II",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203770/header.jpg?t=1740566844"
+  },
+  {
     "appid": 1868140,
     "name": "DAVE THE DIVER",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/3f5b136a2a0284a02bdc03533a4041d358c4d7b2/header_alt_assets_2.jpg?t=1781777209"
@@ -143,10 +148,5 @@
     "appid": 249230,
     "name": "Risen 3 - Titan Lords",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/249230/header.jpg?t=1601972818"
-  },
-  {
-    "appid": 292120,
-    "name": "FINAL FANTASY® XIII",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292120/header.jpg?t=1775176878"
   }
 ]
