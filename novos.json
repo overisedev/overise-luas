@@ -1,5 +1,10 @@
 [
   {
+    "appid": 3159330,
+    "name": "Assassin’s Creed Shadows",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3159330/header.jpg?t=1775589420"
+  },
+  {
     "appid": 3483510,
     "name": "The Adventures of Elliot: The Millennium Tales",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483510/3c96b19255b69aa9b2e131dda3e19d622b0d6562/header.jpg?t=1781812674"
@@ -143,10 +148,5 @@
     "appid": 292140,
     "name": "FINAL FANTASY® XIII-2",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292140/header.jpg?t=1775177243"
-  },
-  {
-    "appid": 338390,
-    "name": "The Technomancer",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/338390/header.jpg?t=1712312994"
   }
 ]
