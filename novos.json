@@ -1,5 +1,10 @@
 [
   {
+    "appid": 2486820,
+    "name": "Sonic Racing: CrossWorlds",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2486820/0241d6eb415e0f866adeb1acf1d0af7d1698bd65/header_alt_assets_8.jpg?t=1781293552"
+  },
+  {
     "appid": 1442430,
     "name": "Storage Hunter Simulator",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442430/7e80101e998d9bed0bac2fe7c73f4a13b1150a14/header.jpg?t=1779889549"
@@ -143,10 +148,5 @@
     "appid": 1877020,
     "name": "Jujutsu Kaisen Cursed Clash",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1877020/header.jpg?t=1734085250"
-  },
-  {
-    "appid": 2466900,
-    "name": "The Posthumous Investigation",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2466900/eecefe89e55d21ba0e9e73bad97988ad106082a9/header.jpg?t=1777005768"
   }
 ]
