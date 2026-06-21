@@ -1,5 +1,10 @@
 [
   {
+    "appid": 750920,
+    "name": "Shadow of the Tomb Raider: Definitive Edition",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/header.jpg?t=1765239925"
+  },
+  {
     "appid": 1284190,
     "name": "The Planet Crafter",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1284190/header.jpg?t=1781614919"
@@ -143,10 +148,5 @@
     "appid": 9870,
     "name": "App 9870",
     "img": ""
-  },
-  {
-    "appid": 4704690,
-    "name": "MECCHA CHAMELEON",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224"
   }
 ]
