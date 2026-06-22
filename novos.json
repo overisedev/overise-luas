@@ -1,5 +1,10 @@
 [
   {
+    "appid": 1274570,
+    "name": "DEVOUR",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274570/bb90f9fa36e4c35a5f28cdc38cf75b3eb5c39032/header.jpg?t=1765533474"
+  },
+  {
     "appid": 1602010,
     "name": "Persona 4 Arena Ultimax",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1602010/header.jpg?t=1763530579"
@@ -143,10 +148,5 @@
     "appid": 1113000,
     "name": "Persona 4 Golden",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113000/header.jpg?t=1763530422"
-  },
-  {
-    "appid": 1687950,
-    "name": "Persona 5 Royal",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg?t=1779145087"
   }
 ]
