@@ -1,5 +1,15 @@
 [
   {
+    "appid": 1496790,
+    "name": "Gotham Knights",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1496790/header.jpg?t=1772146079"
+  },
+  {
+    "appid": 1817190,
+    "name": "Marvel’s Spider-Man: Miles Morales",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/header.jpg?t=1763569499"
+  },
+  {
     "appid": 2531310,
     "name": "The Last of Us™ Parte II Remastered",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg?t=1750959180"
@@ -138,15 +148,5 @@
     "appid": 202970,
     "name": "Call of Duty®: Black Ops II",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202970/header.jpg?t=1780962925"
-  },
-  {
-    "appid": 1088710,
-    "name": "Yakuza 3 Remastered",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088710/header.jpg?t=1781264511"
-  },
-  {
-    "appid": 460930,
-    "name": "Tom Clancy's Ghost Recon® Wildlands",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/header.jpg?t=1764776201"
   }
 ]
