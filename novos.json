@@ -1,5 +1,10 @@
 [
   {
+    "appid": 242920,
+    "name": "Banished",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242920/header.jpg?t=1667584747"
+  },
+  {
     "appid": 12150,
     "name": "Max Payne 2: The Fall of Max Payne",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12150/header.jpg?t=1709651720"
@@ -143,10 +148,5 @@
     "appid": 3454980,
     "name": "Mortal Kombat: Legacy Kollection",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3454980/24fece3b770962ade1a94dfb3f134befe97469b9/header.jpg?t=1776285141"
-  },
-  {
-    "appid": 628670,
-    "name": "Hellpoint",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/628670/header.jpg?t=1739397916"
   }
 ]
