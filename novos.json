@@ -1,5 +1,15 @@
 [
   {
+    "appid": 584400,
+    "name": "Sonic Mania",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584400/header.jpg?t=1762751921"
+  },
+  {
+    "appid": 1794960,
+    "name": "Sonic Origins",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794960/header.jpg?t=1762752035"
+  },
+  {
     "appid": 313160,
     "name": "Farming Simulator 15",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313160/header.jpg?t=1593434409"
@@ -138,15 +148,5 @@
     "appid": 2221490,
     "name": "Tom Clancy’s The Division® 2",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2221490/aa61a33884d50a867187625327659b580658c638/header_alt_assets_6.jpg?t=1781597370"
-  },
-  {
-    "appid": 40990,
-    "name": "Mafia",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40990/header.jpg?t=1746716619"
-  },
-  {
-    "appid": 1364210,
-    "name": "City Bus Manager",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364210/7e708adfc9c22a774eb87bfe4502b11a7eb2945f/header.jpg?t=1765465613"
   }
 ]
