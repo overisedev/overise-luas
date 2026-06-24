@@ -1,5 +1,10 @@
 [
   {
+    "appid": 2679100,
+    "name": "Witchspire",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679100/4f9f0df53c138248fa03cf0caef2ff1c75ec7a35/header_alt_assets_1_portuguese.jpg?t=1781704867"
+  },
+  {
     "appid": 242920,
     "name": "Banished",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242920/header.jpg?t=1667584747"
@@ -143,10 +148,5 @@
     "appid": 1446780,
     "name": "MONSTER HUNTER RISE",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446780/header.jpg?t=1768870444"
-  },
-  {
-    "appid": 3454980,
-    "name": "Mortal Kombat: Legacy Kollection",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3454980/24fece3b770962ade1a94dfb3f134befe97469b9/header.jpg?t=1776285141"
   }
 ]
