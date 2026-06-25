@@ -1,5 +1,10 @@
 [
   {
+    "appid": 221100,
+    "name": "DayZ",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/header.jpg?t=1769695513"
+  },
+  {
     "appid": 71250,
     "name": "Sonic Adventure DX",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/71250/header.jpg?t=1762751624"
@@ -143,10 +148,5 @@
     "appid": 2852190,
     "name": "Monster Hunter Stories 3: Twisted Reflection",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2852190/de3717096a093d7bf9ab504563621bc17e37ccf4/header.jpg?t=1778720498"
-  },
-  {
-    "appid": 1158940,
-    "name": "Blazing Sails",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158940/header.jpg?t=1744285471"
   }
 ]
