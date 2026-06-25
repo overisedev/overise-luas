@@ -1,5 +1,10 @@
 [
   {
+    "appid": 3551340,
+    "name": "Football Manager 26",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3551340/0b251456ded934f0f78613dcc89bfaa6f06866f5/header_alt_assets_0.jpg?t=1781176251"
+  },
+  {
     "appid": 221100,
     "name": "DayZ",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/header.jpg?t=1769695513"
@@ -52,7 +57,7 @@
   {
     "appid": 2679100,
     "name": "Witchspire",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679100/4f9f0df53c138248fa03cf0caef2ff1c75ec7a35/header_alt_assets_1_portuguese.jpg?t=1781704867"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679100/fb7f504258d3ace8267a937de3fb9be130c246d8/header.jpg?t=1781704867"
   },
   {
     "appid": 242920,
@@ -143,10 +148,5 @@
     "appid": 1790600,
     "name": "DRAGON BALL: Sparking! ZERO",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/header.jpg?t=1758754863"
-  },
-  {
-    "appid": 2852190,
-    "name": "Monster Hunter Stories 3: Twisted Reflection",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2852190/de3717096a093d7bf9ab504563621bc17e37ccf4/header.jpg?t=1778720498"
   }
 ]
