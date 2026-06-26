@@ -1,0 +1,6 @@
+{
+  "cloudredirect_url": "https://github.com/overisedev/apps/releases/latest/download/CloudRedirectCLI.exe",
+  "cloudredirect_args": "/stfixer",
+  "rodar_cloudredirect": true,
+  "opensteamtool_dlls": ["dwmapi.dll", "xinput1_4.dll", "OpenSteamTool.dll"]
+}
