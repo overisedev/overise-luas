@@ -1,5 +1,10 @@
 [
   {
+    "appid": 3717070,
+    "name": "WWE 2K26",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717070/6e590c37107f7306ab9e42cc07d2aa92327625d1/header.jpg?t=1781815485"
+  },
+  {
     "appid": 2569670,
     "name": "Farmer's Dynasty 2",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569670/d9c8da7df7238135193fd36f26c4baa0844946b5/header.jpg?t=1781290181"
@@ -143,10 +148,5 @@
     "appid": 2050650,
     "name": "Resident Evil 4",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922"
-  },
-  {
-    "appid": 254700,
-    "name": "Resident Evil 4 (2005)",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/254700/header.jpg?t=1768960618"
   }
 ]
