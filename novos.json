@@ -1,5 +1,15 @@
 [
   {
+    "appid": 414700,
+    "name": "Outlast 2",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414700/header.jpg?t=1618944453"
+  },
+  {
+    "appid": 238320,
+    "name": "Outlast",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238320/header.jpg?t=1666817106"
+  },
+  {
     "appid": 1144200,
     "name": "Ready or Not",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/2b44644b033a996a9efb95051bb01809215d0d23/header.jpg?t=1781703931"
@@ -138,15 +148,5 @@
     "appid": 2990640,
     "name": "Endoparasitic 2",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990640/header.jpg?t=1768598900"
-  },
-  {
-    "appid": 424840,
-    "name": "Little Nightmares",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424840/facf9a7a675c6d7f210d96d6b111caffe0386cd5/header.jpg?t=1773135169"
-  },
-  {
-    "appid": 860510,
-    "name": "Little Nightmares II",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/860510/header.jpg?t=1730127763"
   }
 ]
