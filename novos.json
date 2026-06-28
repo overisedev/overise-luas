@@ -1,5 +1,20 @@
 [
   {
+    "appid": 3932890,
+    "name": "Escape from Tarkov",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932890/e1367f10d469137a2ced522b642a9b1ee10450da/header.jpg?t=1779703783"
+  },
+  {
+    "appid": 1548850,
+    "name": "Six Days in Fallujah",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1548850/6fda8341b3559754cf71ca839e69460c3e54479e/header.jpg?t=1775125249"
+  },
+  {
+    "appid": 1338770,
+    "name": "Sniper Ghost Warrior Contracts 2",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1338770/header.jpg?t=1747413239"
+  },
+  {
     "appid": 1095260,
     "name": "Airtight City 密闭之城1.0",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095260/header.jpg?t=1678831581"
@@ -133,20 +148,5 @@
     "appid": 3764200,
     "name": "Resident Evil Requiem",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172"
-  },
-  {
-    "appid": 2415010,
-    "name": "A Date with Death",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2415010/header.jpg?t=1771278803"
-  },
-  {
-    "appid": 2407270,
-    "name": "AI LIMIT",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2407270/header.jpg?t=1775125430"
-  },
-  {
-    "appid": 2989180,
-    "name": "Darwin's Paradox!",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989180/header.jpg?t=1775773471"
   }
 ]
