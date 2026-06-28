@@ -1,5 +1,10 @@
 [
   {
+    "appid": 447040,
+    "name": "Watch_Dogs® 2",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447040/header.jpg?t=1751986887"
+  },
+  {
     "appid": 2197890,
     "name": "Paranormal Cleanup",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2197890/57fc44b70aec2940c644c5399c8f36c8fca77391/header.jpg?t=1761934348"
@@ -143,10 +148,5 @@
     "appid": 3304770,
     "name": "Exposed Livestream",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3304770/header.jpg?t=1761371392"
-  },
-  {
-    "appid": 2789410,
-    "name": "Komadori Inn",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2789410/header.jpg?t=1781696659"
   }
 ]
