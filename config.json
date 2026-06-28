@@ -3,6 +3,6 @@
   "cloudredirect_args": "/stfixer",
   "rodar_cloudredirect": true,
   "opensteamtool_dlls": ["dwmapi.dll", "xinput1_4.dll", "OpenSteamTool.dll"],
-  "latest_build": 20260701,
+  "latest_build": 20260702,
   "update_exe_url": "https://github.com/overisedev/apps/releases/download/launcher/OVERISE.exe"
 }
