@@ -1,5 +1,10 @@
 [
   {
+    "appid": 412020,
+    "name": "Metro Exodus",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/412020/header.jpg?t=1750772804"
+  },
+  {
     "appid": 4100940,
     "name": "Poppy Playtime - Chapter 5",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100940/1172d8d66d4e09fb1cc378f4712c7c25d1fe17b2/header.jpg?t=1771434005"
@@ -143,10 +148,5 @@
     "appid": 24840,
     "name": "Medal of Honor: Airborne",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24840/header.jpg?t=1782472233"
-  },
-  {
-    "appid": 227300,
-    "name": "Euro Truck Simulator 2",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1773641450"
   }
 ]
