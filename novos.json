@@ -1,5 +1,10 @@
 [
   {
+    "appid": 3478650,
+    "name": "FreshWomen - Season 2",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3478650/22216e1940a7a11129d0e421d099751db710ac80/header.jpg?t=1765821149"
+  },
+  {
     "appid": 1874880,
     "name": "Arma Reforger",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/header.jpg?t=1779966148"
@@ -143,10 +148,5 @@
     "appid": 393380,
     "name": "Squad",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/55a550dd5edfbab9cbd83a07a434f403f3d8eae2/header_alt_assets_9.jpg?t=1781548039"
-  },
-  {
-    "appid": 414700,
-    "name": "Outlast 2",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414700/header.jpg?t=1618944453"
   }
 ]
