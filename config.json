@@ -1,7 +1,7 @@
 {
   "cloudredirect_url": "https://github.com/overisedev/apps/releases/latest/download/CloudRedirectCLI.exe",
   "cloudredirect_args": "/stfixer",
-  "rodar_cloudredirect": true,
+  "rodar_cloudredirect": false,
   "opensteamtool_dlls": ["dwmapi.dll", "xinput1_4.dll", "OpenSteamTool.dll"],
   "latest_build": 20260704,
   "update_exe_url": "https://github.com/overisedev/apps/releases/download/launcher/OVERISE.exe"
