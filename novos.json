@@ -1,5 +1,10 @@
 [
   {
+    "appid": 1874880,
+    "name": "Arma Reforger",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/header.jpg?t=1779966148"
+  },
+  {
     "appid": 1726130,
     "name": "Pathless Woods",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1726130/header.jpg?t=1750755451"
@@ -143,10 +148,5 @@
     "appid": 414700,
     "name": "Outlast 2",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414700/header.jpg?t=1618944453"
-  },
-  {
-    "appid": 238320,
-    "name": "Outlast",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238320/header.jpg?t=1666817106"
   }
 ]
