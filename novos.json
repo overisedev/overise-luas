@@ -1,5 +1,30 @@
 [
   {
+    "appid": 761600,
+    "name": "Onimusha: Warlords",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761600/header.jpg?t=1752739869"
+  },
+  {
+    "appid": 2695430,
+    "name": "A.I.L.A",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695430/header.jpg?t=1774544326"
+  },
+  {
+    "appid": 2918090,
+    "name": "Fear The Timeloop",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918090/3643a6fdbea6666d967b6cc41c22670358ccf906/header.jpg?t=1779109182"
+  },
+  {
+    "appid": 750130,
+    "name": "The Sinking City Remastered",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750130/4fb51a8ba323000002ce2c7ffb77ed2a27aba835/header.jpg?t=1758283418"
+  },
+  {
+    "appid": 1110910,
+    "name": "Mortal Shell",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1110910/header.jpg?t=1773766575"
+  },
+  {
     "appid": 4157170,
     "name": "Sports Card Shop Simulator",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157170/7fced84f3c574778a065b136142b7d127da059bf/header.jpg?t=1782235162"
@@ -123,30 +148,5 @@
     "appid": 2432990,
     "name": "NightSpawn",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2432990/1e026e82d776533c00b48d58742e2ef3677f6df8/header.jpg?t=1777646380"
-  },
-  {
-    "appid": 1883840,
-    "name": "Ocean Punk",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1883840/1df48d4849408bbf4288e52b57a8736658185c06/header.jpg?t=1768391709"
-  },
-  {
-    "appid": 1716310,
-    "name": "Awaken - Astral Blade",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1716310/510e5efeff90a1d07f6d60f9d95142ae12ee1a33/header.jpg?t=1775575840"
-  },
-  {
-    "appid": 2479810,
-    "name": "Gray Zone Warfare",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479810/3d19359462ceaec3497ffe4a51c2eaa7fb826d22/header_alt_assets_5_portuguese.jpg?t=1782408532"
-  },
-  {
-    "appid": 2483190,
-    "name": "Forza Horizon 6",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/744a52b2f79bb03825dea2c0fcfa29e330bb2f1e/header_alt_assets_1.jpg?t=1782238812"
-  },
-  {
-    "appid": 412020,
-    "name": "Metro Exodus",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/412020/header.jpg?t=1750772804"
   }
 ]
