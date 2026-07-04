@@ -1,5 +1,20 @@
 [
   {
+    "appid": 1288320,
+    "name": "Way of the Hunter",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1288320/header.jpg?t=1774533447"
+  },
+  {
+    "appid": 2543830,
+    "name": "Way of the Hunter 2",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2543830/81c7e37d81e31037d66225899002e03ad3f153dc/header_alt_assets_3.jpg?t=1782735257"
+  },
+  {
+    "appid": 1866130,
+    "name": "Morbid Metal",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1866130/b92703e64b423aeb709605a4d67ae005791b8485/header.jpg?t=1782810773"
+  },
+  {
     "appid": 1407210,
     "name": "Space Rescue: Code Pink",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1407210/2274205bcfb487c66bf01d9fed984b482c8834c1/header.jpg?t=1780906646"
@@ -133,20 +148,5 @@
     "appid": 209650,
     "name": "Call of Duty®: Advanced Warfare - Gold Edition",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209650/header.jpg?t=1780963395"
-  },
-  {
-    "appid": 703080,
-    "name": "Planet Zoo",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703080/header.jpg?t=1765896213"
-  },
-  {
-    "appid": 761600,
-    "name": "Onimusha: Warlords",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761600/header.jpg?t=1752739869"
-  },
-  {
-    "appid": 2695430,
-    "name": "A.I.L.A",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695430/header.jpg?t=1774544326"
   }
 ]
