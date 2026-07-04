@@ -1,5 +1,10 @@
 [
   {
+    "appid": 311210,
+    "name": "Call of Duty®: Black Ops III",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg?t=1780963650"
+  },
+  {
     "appid": 228300,
     "name": "Remember Me",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/228300/header.jpg?t=1779340218"
@@ -143,10 +148,5 @@
     "appid": 235460,
     "name": "METAL GEAR RISING: REVENGEANCE",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/235460/header.jpg?t=1740076034"
-  },
-  {
-    "appid": 265120,
-    "name": "Meridian: New World",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/265120/header.jpg?t=1717900807"
   }
 ]
