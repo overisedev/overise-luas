@@ -1,5 +1,40 @@
 [
   {
+    "appid": 352400,
+    "name": "LEGO® Jurassic World",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/352400/header.jpg?t=1780600160"
+  },
+  {
+    "appid": 1969370,
+    "name": "LEGO® Party!",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1969370/bdd135d96ca368b1e1cb4f221052adcd0cfbff61/header.jpg?t=1777049981"
+  },
+  {
+    "appid": 920210,
+    "name": "LEGO® Star Wars™: The Skywalker Saga",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/920210/header.jpg?t=1747346983"
+  },
+  {
+    "appid": 829110,
+    "name": "LEGO® DC Super-Villains",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/829110/header.jpg?t=1780598850"
+  },
+  {
+    "appid": 313690,
+    "name": "LEGO® Batman™ 3: Beyond Gotham",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313690/header.jpg?t=1780597097"
+  },
+  {
+    "appid": 405310,
+    "name": "LEGO® MARVEL's Avengers",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405310/header_portuguese.jpg?t=1780599434"
+  },
+  {
+    "appid": 578330,
+    "name": "LEGO® City Undercover",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578330/header.jpg?t=1780600124"
+  },
+  {
     "appid": 2434600,
     "name": "ShantyTown",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2434600/9c5821255a378fc361e2258122cf741c0b10b681/header.jpg?t=1782406510"
@@ -113,40 +148,5 @@
     "appid": 1972440,
     "name": "Shotgun King: The Final Checkmate",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1972440/header.jpg?t=1779871580"
-  },
-  {
-    "appid": 2186580,
-    "name": "Shuffle Tactics",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186580/41c5fb5dc67f9cf6259ed86d9a5f1d868a0c9a0c/header.jpg?t=1755243003"
-  },
-  {
-    "appid": 220440,
-    "name": "DmC: Devil May Cry",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220440/header.jpg?t=1768870001"
-  },
-  {
-    "appid": 1288320,
-    "name": "Way of the Hunter",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1288320/header.jpg?t=1774533447"
-  },
-  {
-    "appid": 2543830,
-    "name": "Way of the Hunter 2",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2543830/81c7e37d81e31037d66225899002e03ad3f153dc/header_alt_assets_3.jpg?t=1782735257"
-  },
-  {
-    "appid": 1866130,
-    "name": "Morbid Metal",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1866130/b92703e64b423aeb709605a4d67ae005791b8485/header.jpg?t=1782810773"
-  },
-  {
-    "appid": 1407210,
-    "name": "Space Rescue: Code Pink",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1407210/2274205bcfb487c66bf01d9fed984b482c8834c1/header.jpg?t=1780906646"
-  },
-  {
-    "appid": 3711590,
-    "name": "Train 45",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3711590/6c43bd55695a3e5d5796996f668a6a6c10cf31a0/header.jpg?t=1782439296"
   }
 ]
