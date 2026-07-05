@@ -1,5 +1,10 @@
 [
   {
+    "appid": 1080020,
+    "name": "Electrician Simulator",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1080020/header.jpg?t=1781784045"
+  },
+  {
     "appid": 352400,
     "name": "LEGO® Jurassic World",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/352400/header.jpg?t=1780600160"
@@ -143,10 +148,5 @@
     "appid": 228300,
     "name": "Remember Me",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/228300/header.jpg?t=1779340218"
-  },
-  {
-    "appid": 1972440,
-    "name": "Shotgun King: The Final Checkmate",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1972440/header.jpg?t=1779871580"
   }
 ]
