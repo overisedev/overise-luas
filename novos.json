@@ -1,5 +1,40 @@
 [
   {
+    "appid": 1262600,
+    "name": "Need for Speed™ Rivals",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262600/header.jpg?t=1777394510"
+  },
+  {
+    "appid": 1262560,
+    "name": "Need for Speed™ Most Wanted",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262560/header.jpg?t=1777484382"
+  },
+  {
+    "appid": 731490,
+    "name": "Crash Bandicoot™ N. Sane Trilogy",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731490/header.jpg?t=1742399696"
+  },
+  {
+    "appid": 1846380,
+    "name": "Need for Speed™ Unbound",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846380/eacea0635efb7af9054f6b299060fee32404ace7/header.jpg?t=1777394467"
+  },
+  {
+    "appid": 3472040,
+    "name": "NBA 2K26",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3472040/46650897e3b766a8b7f5e50313fcabba9afcf564/header_alt_assets_6.jpg?t=1782486648"
+  },
+  {
+    "appid": 1222680,
+    "name": "Need for Speed™ Heat",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222680/header.jpg?t=1777414224"
+  },
+  {
+    "appid": 1262580,
+    "name": "Need for Speed™ Payback",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262580/header.jpg?t=1777543107"
+  },
+  {
     "appid": 1778820,
     "name": "TEKKEN 8",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/8518523e6bea615ba8127c6fc215fd1eac966501/header.jpg?t=1782460158"
@@ -113,40 +148,5 @@
     "appid": 518790,
     "name": "theHunter: Call of the Wild™",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/c07710b13298c1881dfe411210e9f81398260d03/header_alt_assets_13_portuguese.jpg?t=1781679235"
-  },
-  {
-    "appid": 1158160,
-    "name": "Coral Island",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158160/a549894cb6d2372aafdad26f4bd87abaf692c9c0/header_alt_assets_6.jpg?t=1781768008"
-  },
-  {
-    "appid": 1332010,
-    "name": "Stray",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/71daca1910d664d31240b9623a495e0c0828807f/header.jpg?t=1779927784"
-  },
-  {
-    "appid": 1881340,
-    "name": "Shadow Burglar",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1881340/header.jpg?t=1698691022"
-  },
-  {
-    "appid": 548570,
-    "name": "RAGE 2",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548570/header.jpg?t=1761681586"
-  },
-  {
-    "appid": 1139900,
-    "name": "Ghostrunner",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139900/header.jpg?t=1727712844"
-  },
-  {
-    "appid": 345330,
-    "name": "Eden Rising",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/345330/header.jpg?t=1728415747"
-  },
-  {
-    "appid": 2379910,
-    "name": "Dystopika",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379910/3ace3076a7af9add02ad4be8362a71e14041195f/header.jpg?t=1775644044"
   }
 ]
