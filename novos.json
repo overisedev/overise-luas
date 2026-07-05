@@ -1,5 +1,10 @@
 [
   {
+    "appid": 2434600,
+    "name": "ShantyTown",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2434600/9c5821255a378fc361e2258122cf741c0b10b681/header.jpg?t=1782406510"
+  },
+  {
     "appid": 1262600,
     "name": "Need for Speed™ Rivals",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262600/header.jpg?t=1777394510"
@@ -143,10 +148,5 @@
     "appid": 3711590,
     "name": "Train 45",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3711590/6c43bd55695a3e5d5796996f668a6a6c10cf31a0/header.jpg?t=1782439296"
-  },
-  {
-    "appid": 518790,
-    "name": "theHunter: Call of the Wild™",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/c07710b13298c1881dfe411210e9f81398260d03/header_alt_assets_13_portuguese.jpg?t=1781679235"
   }
 ]
