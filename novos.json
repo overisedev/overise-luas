@@ -1,5 +1,10 @@
 [
   {
+    "appid": 427190,
+    "name": "DEAD RISING®",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427190/header.jpg?t=1768866595"
+  },
+  {
     "appid": 42640,
     "name": "Blur",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42640/header.jpg?t=1447353061"
@@ -143,10 +148,5 @@
     "appid": 1244910,
     "name": "My Supermarket",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1244910/6365adcb545e4ad562ef4f511c1b44953bca00a1/header.jpg?t=1769515272"
-  },
-  {
-    "appid": 2235020,
-    "name": "Contra: Operation Galuga",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2235020/header.jpg?t=1747196458"
   }
 ]
