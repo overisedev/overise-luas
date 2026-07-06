@@ -1,5 +1,30 @@
 [
   {
+    "appid": 22380,
+    "name": "Fallout: New Vegas",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22380/header.jpg?t=1765992876"
+  },
+  {
+    "appid": 220240,
+    "name": "Far Cry 3",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220240/3848aafeb6e5cff40cbf6210c34413f3034150da/header.jpg?t=1781619366"
+  },
+  {
+    "appid": 242050,
+    "name": "Assassin’s Creed® IV Black Flag™",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242050/header.jpg?t=1777052740"
+  },
+  {
+    "appid": 203160,
+    "name": "Tomb Raider Game of the Year",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/9e67774e97cdd155f287146e62611eb445514ac6/header.jpg?t=1765220424"
+  },
+  {
+    "appid": 2356560,
+    "name": "Monster Hunter Stories",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2356560/header.jpg?t=1768870714"
+  },
+  {
     "appid": 1080020,
     "name": "Electrician Simulator",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1080020/header.jpg?t=1781784045"
@@ -123,30 +148,5 @@
     "appid": 3012780,
     "name": "Mystopia",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3012780/da2fcbc38b5489c9e8cf53f4661ce829311062a0/header.jpg?t=1776768569"
-  },
-  {
-    "appid": 782330,
-    "name": "DOOM Eternal",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/feaf8293bcd2d078422faa547bc0d707c08f606e/header.jpg?t=1781283783"
-  },
-  {
-    "appid": 383870,
-    "name": "Firewatch",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/383870/41a7d0ff4c2dab4ed69c53c9a29c931e6f62948d/header.jpg?t=1755789801"
-  },
-  {
-    "appid": 2208920,
-    "name": "Assassin's Creed Valhalla",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2208920/header.jpg?t=1754572990"
-  },
-  {
-    "appid": 228300,
-    "name": "Remember Me",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/228300/header.jpg?t=1779340218"
-  },
-  {
-    "appid": 1972440,
-    "name": "Shotgun King: The Final Checkmate",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1972440/header.jpg?t=1779871580"
   }
 ]
