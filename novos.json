@@ -1,5 +1,10 @@
 [
   {
+    "appid": 2217000,
+    "name": "Rivals of Aether II",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2217000/3d8742ad5d7dd77235f75dba0a3814b0689d4df3/header.jpg?t=1780336617"
+  },
+  {
     "appid": 1895880,
     "name": "Ratchet & Clank: Uma Dimensão à Parte",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895880/header.jpg?t=1750956328"
@@ -32,7 +37,7 @@
   {
     "appid": 3035120,
     "name": "Is This Seat Taken?",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035120/header.jpg?t=1782400201"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035120/header.jpg?t=1783409024"
   },
   {
     "appid": 871540,
@@ -143,10 +148,5 @@
     "appid": 1262580,
     "name": "Need for Speed™ Payback",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262580/header.jpg?t=1777543107"
-  },
-  {
-    "appid": 1778820,
-    "name": "TEKKEN 8",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/8518523e6bea615ba8127c6fc215fd1eac966501/header.jpg?t=1782460158"
   }
 ]
