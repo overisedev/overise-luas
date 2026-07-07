@@ -1,5 +1,70 @@
 [
   {
+    "appid": 1498570,
+    "name": "THE KING OF FIGHTERS XV",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1498570/header.jpg?t=1742873915"
+  },
+  {
+    "appid": 921770,
+    "name": "HANZ!",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/921770/header.jpg?t=1539766491"
+  },
+  {
+    "appid": 702120,
+    "name": "THE KING OF FIGHTERS '97 GLOBAL MATCH",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/702120/header.jpg?t=1727160211"
+  },
+  {
+    "appid": 571260,
+    "name": "THE KING OF FIGHTERS XIV STEAM EDITION",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571260/header.jpg?t=1727160512"
+  },
+  {
+    "appid": 1755830,
+    "name": "Astrea: Six-Sided Oracles",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/0a034d750802c570aabef6af262c154ae46fedfa/header.jpg?t=1770654706"
+  },
+  {
+    "appid": 307670,
+    "name": "Hard West",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307670/header.jpg?t=1710326919"
+  },
+  {
+    "appid": 1282410,
+    "name": "Hard West 2",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1282410/header.jpg?t=1750073661"
+  },
+  {
+    "appid": 222940,
+    "name": "THE KING OF FIGHTERS XIII STEAM EDITION",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/222940/header.jpg?t=1752107845"
+  },
+  {
+    "appid": 1069740,
+    "name": "Seen",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1069740/header.jpg?t=1667008688"
+  },
+  {
+    "appid": 859340,
+    "name": "Seeking Dawn",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/859340/header.jpg?t=1739171563"
+  },
+  {
+    "appid": 814380,
+    "name": "Sekiro™: Shadows Die Twice - GOTY Edition",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg?t=1762888662"
+  },
+  {
+    "appid": 695330,
+    "name": "SEASON: A letter to the future",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/695330/header.jpg?t=1767129392"
+  },
+  {
+    "appid": 700160,
+    "name": "Semblance",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/700160/header.jpg?t=1680797529"
+  },
+  {
     "appid": 1272080,
     "name": "PAYDAY 3",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272080/d2f9d9bb92bda9eb6a451488d4ddeae460da9366/header.jpg?t=1783416228"
@@ -83,70 +148,5 @@
     "appid": 352400,
     "name": "LEGO® Jurassic World",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/352400/header.jpg?t=1780600160"
-  },
-  {
-    "appid": 1969370,
-    "name": "LEGO® Party!",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1969370/bdd135d96ca368b1e1cb4f221052adcd0cfbff61/header.jpg?t=1777049981"
-  },
-  {
-    "appid": 920210,
-    "name": "LEGO® Star Wars™: The Skywalker Saga",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/920210/header.jpg?t=1747346983"
-  },
-  {
-    "appid": 829110,
-    "name": "LEGO® DC Super-Villains",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/829110/header.jpg?t=1780598850"
-  },
-  {
-    "appid": 313690,
-    "name": "LEGO® Batman™ 3: Beyond Gotham",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313690/header.jpg?t=1780597097"
-  },
-  {
-    "appid": 405310,
-    "name": "LEGO® MARVEL's Avengers",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405310/header_portuguese.jpg?t=1780599434"
-  },
-  {
-    "appid": 578330,
-    "name": "LEGO® City Undercover",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578330/header.jpg?t=1780600124"
-  },
-  {
-    "appid": 2434600,
-    "name": "ShantyTown",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2434600/9c5821255a378fc361e2258122cf741c0b10b681/header.jpg?t=1782406510"
-  },
-  {
-    "appid": 1262600,
-    "name": "Need for Speed™ Rivals",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262600/header.jpg?t=1777394510"
-  },
-  {
-    "appid": 1262560,
-    "name": "Need for Speed™ Most Wanted",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262560/header.jpg?t=1777484382"
-  },
-  {
-    "appid": 731490,
-    "name": "Crash Bandicoot™ N. Sane Trilogy",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731490/header.jpg?t=1742399696"
-  },
-  {
-    "appid": 1846380,
-    "name": "Need for Speed™ Unbound",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846380/eacea0635efb7af9054f6b299060fee32404ace7/header.jpg?t=1777394467"
-  },
-  {
-    "appid": 3472040,
-    "name": "NBA 2K26",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3472040/46650897e3b766a8b7f5e50313fcabba9afcf564/header_alt_assets_6.jpg?t=1782486648"
-  },
-  {
-    "appid": 1222680,
-    "name": "Need for Speed™ Heat",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222680/header.jpg?t=1777414224"
   }
 ]
