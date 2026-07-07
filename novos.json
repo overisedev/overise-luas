@@ -1,5 +1,10 @@
 [
   {
+    "appid": 2842040,
+    "name": "Star Wars Outlaws",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2842040/header.jpg?t=1773407100"
+  },
+  {
     "appid": 1498570,
     "name": "THE KING OF FIGHTERS XV",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1498570/header.jpg?t=1742873915"
@@ -143,10 +148,5 @@
     "appid": 1080020,
     "name": "Electrician Simulator",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1080020/header.jpg?t=1781784045"
-  },
-  {
-    "appid": 352400,
-    "name": "LEGO® Jurassic World",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/352400/header.jpg?t=1780600160"
   }
 ]
