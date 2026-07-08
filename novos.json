@@ -1,5 +1,15 @@
 [
   {
+    "appid": 4021780,
+    "name": "Geo-Political Simulator 2026 Edition",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4021780/414ca27a13435d96ec1f22d28cb81db7fe2ece77/header.jpg?t=1771515309"
+  },
+  {
+    "appid": 2210520,
+    "name": "COPA CITY",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2210520/75df4302682e4d5cb47a15fdfe5cda57d85a3978/header.jpg?t=1783355914"
+  },
+  {
     "appid": 1259970,
     "name": "eFootball PES 2021 SEASON UPDATE",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259970/header.jpg?t=1639008061"
@@ -138,15 +148,5 @@
     "appid": 22380,
     "name": "Fallout: New Vegas",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22380/header.jpg?t=1765992876"
-  },
-  {
-    "appid": 220240,
-    "name": "Far Cry 3",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220240/3848aafeb6e5cff40cbf6210c34413f3034150da/header.jpg?t=1781619366"
-  },
-  {
-    "appid": 242050,
-    "name": "Assassin’s Creed® IV Black Flag™",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242050/header.jpg?t=1777052740"
   }
 ]
