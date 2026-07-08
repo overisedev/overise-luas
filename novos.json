@@ -1,5 +1,55 @@
 [
   {
+    "appid": 246420,
+    "name": "Kingdom Rush  - Tower Defense",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246420/header.jpg?t=1782152390"
+  },
+  {
+    "appid": 816340,
+    "name": "Kingdom Rush Origins - Tower Defense",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/816340/header.jpg?t=1782152916"
+  },
+  {
+    "appid": 1367550,
+    "name": "Kingdom Rush Vengeance - Tower Defense",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1367550/header.jpg?t=1782735813"
+  },
+  {
+    "appid": 2849080,
+    "name": "Kingdom Rush 5: Alliance TD",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2849080/header.jpg?t=1782153294"
+  },
+  {
+    "appid": 235660,
+    "name": "Eador: Genesis",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/235660/header.jpg?t=1563274911"
+  },
+  {
+    "appid": 458710,
+    "name": "Kingdom Rush Frontiers - Tower Defense",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/458710/header.jpg?t=1782152637"
+  },
+  {
+    "appid": 1904860,
+    "name": "Legends of Kingdom Rush",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904860/c47c8c49f101fa20315a36a139c968f7de1d7d19/header.jpg?t=1745507867"
+  },
+  {
+    "appid": 730310,
+    "name": "DYNASTY WARRIORS 9",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730310/header.jpg?t=1775536636"
+  },
+  {
+    "appid": 2384580,
+    "name": "DYNASTY WARRIORS: ORIGINS",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2384580/header.jpg?t=1775536473"
+  },
+  {
+    "appid": 3949040,
+    "name": "RV There Yet?",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/cae24b4ed7f4531be51f0d63f785b7d253f92dc3/header.jpg?t=1778071815"
+  },
+  {
     "appid": 4021780,
     "name": "Geo-Political Simulator 2026 Edition",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4021780/414ca27a13435d96ec1f22d28cb81db7fe2ece77/header.jpg?t=1771515309"
@@ -7,7 +57,7 @@
   {
     "appid": 2210520,
     "name": "COPA CITY",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2210520/75df4302682e4d5cb47a15fdfe5cda57d85a3978/header.jpg?t=1783355914"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2210520/75df4302682e4d5cb47a15fdfe5cda57d85a3978/header.jpg?t=1783501878"
   },
   {
     "appid": 1259970,
@@ -98,55 +148,5 @@
     "appid": 1272080,
     "name": "PAYDAY 3",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272080/d2f9d9bb92bda9eb6a451488d4ddeae460da9366/header.jpg?t=1783416228"
-  },
-  {
-    "appid": 2217000,
-    "name": "Rivals of Aether II",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2217000/3d8742ad5d7dd77235f75dba0a3814b0689d4df3/header.jpg?t=1780336617"
-  },
-  {
-    "appid": 1895880,
-    "name": "Ratchet & Clank: Uma Dimensão à Parte",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895880/header.jpg?t=1750956328"
-  },
-  {
-    "appid": 1809540,
-    "name": "Nine Sols",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1809540/header.jpg?t=1782464830"
-  },
-  {
-    "appid": 2527390,
-    "name": "Dead Rising Deluxe Remaster",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527390/header.jpg?t=1768869459"
-  },
-  {
-    "appid": 2095420,
-    "name": "Bus Bound",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2095420/9803e0013dffba0e3e2577691ec09196046bce99/header.jpg?t=1782216332"
-  },
-  {
-    "appid": 427190,
-    "name": "DEAD RISING®",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427190/header.jpg?t=1768866595"
-  },
-  {
-    "appid": 42640,
-    "name": "Blur",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42640/header.jpg?t=1447353061"
-  },
-  {
-    "appid": 3035120,
-    "name": "Is This Seat Taken?",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035120/header.jpg?t=1783409024"
-  },
-  {
-    "appid": 871540,
-    "name": "BMX Streets",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/871540/8294fb36b4a4da708bc1a0fd9d738eb9ba036b8d/header.jpg?t=1773239397"
-  },
-  {
-    "appid": 22380,
-    "name": "Fallout: New Vegas",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22380/header.jpg?t=1765992876"
   }
 ]
