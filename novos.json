@@ -1,5 +1,10 @@
 [
   {
+    "appid": 2815070,
+    "name": "RIDE 6",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2815070/4be2d85724afab7ccd40187b0d920dd03754991b/header.jpg?t=1782975724"
+  },
+  {
     "appid": 3017860,
     "name": "DOOM: The Dark Ages",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3017860/008115a75e016051bbc56c8b359b651a8852bae1/header_alt_assets_2_portuguese.jpg?t=1783452885"
@@ -72,7 +77,7 @@
   {
     "appid": 2210520,
     "name": "COPA CITY",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2210520/75df4302682e4d5cb47a15fdfe5cda57d85a3978/header.jpg?t=1783597613"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2210520/75df4302682e4d5cb47a15fdfe5cda57d85a3978/header.jpg?t=1783699469"
   },
   {
     "appid": 1259970,
@@ -143,10 +148,5 @@
     "appid": 859340,
     "name": "Seeking Dawn",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/859340/header.jpg?t=1739171563"
-  },
-  {
-    "appid": 814380,
-    "name": "Sekiro™: Shadows Die Twice - GOTY Edition",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg?t=1762888662"
   }
 ]
