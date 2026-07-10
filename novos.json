@@ -1,5 +1,10 @@
 [
   {
+    "appid": 3017860,
+    "name": "DOOM: The Dark Ages",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3017860/008115a75e016051bbc56c8b359b651a8852bae1/header_alt_assets_2_portuguese.jpg?t=1783452885"
+  },
+  {
     "appid": 4121170,
     "name": "Fears to Fathom® - Scratch Creek",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4121170/803663dce78da494e9d061cf6652ade566b96331/header.jpg?t=1781141362"
@@ -143,10 +148,5 @@
     "appid": 814380,
     "name": "Sekiro™: Shadows Die Twice - GOTY Edition",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg?t=1762888662"
-  },
-  {
-    "appid": 695330,
-    "name": "SEASON: A letter to the future",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/695330/header.jpg?t=1767129392"
   }
 ]
