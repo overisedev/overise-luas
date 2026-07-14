@@ -1,5 +1,10 @@
 [
   {
+    "appid": 2399830,
+    "name": "ARK: Survival Ascended",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/d934813ca531af0fce69fe36bc972f1c90d1aa19/header.jpg?t=1779293241"
+  },
+  {
     "appid": 1963370,
     "name": "No One Survived",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1963370/header.jpg?t=1766828123"
@@ -77,7 +82,7 @@
   {
     "appid": 1984270,
     "name": "Digimon Story Time Stranger",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984270/723bccb3bf302c7c065201b578fbc7030b4e3c41/header.jpg?t=1783566003"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984270/e3f14e956b8e6ee96c257b38e82241cd1522bc80/header_alt_assets_1.jpg?t=1783997411"
   },
   {
     "appid": 816340,
@@ -106,8 +111,8 @@
   },
   {
     "appid": 2210520,
-    "name": "COPA CITY",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2210520/75df4302682e4d5cb47a15fdfe5cda57d85a3978/header.jpg?t=1783699469"
+    "name": "App 2210520",
+    "img": ""
   },
   {
     "appid": 1259970,
@@ -143,10 +148,5 @@
     "appid": 702120,
     "name": "THE KING OF FIGHTERS '97 GLOBAL MATCH",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/702120/header.jpg?t=1727160211"
-  },
-  {
-    "appid": 571260,
-    "name": "THE KING OF FIGHTERS XIV STEAM EDITION",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571260/header.jpg?t=1727160512"
   }
 ]
