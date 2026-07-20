@@ -1,5 +1,10 @@
 [
   {
+    "appid": 602790,
+    "name": "Fated Souls 3",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602790/header.jpg?t=1730472938"
+  },
+  {
     "appid": 3922100,
     "name": "Forest Doesn’t Care",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3922100/dafd6a74300b20d3e261cf852ef8470b17355498/header.jpg?t=1784321247"
@@ -143,10 +148,5 @@
     "appid": 2624870,
     "name": "Life is Strange: Reunion",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2624870/09c486f1ebf7c30ebf3abf5df054833b03c3367d/header.jpg?t=1777999087"
-  },
-  {
-    "appid": 1501750,
-    "name": "Lords of the Fallen",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1501750/c793d85dc133f22112c7283b79dd89e2c0aa58a4/header.jpg?t=1782386576"
   }
 ]
