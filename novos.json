@@ -1,5 +1,10 @@
 [
   {
+    "appid": 2244210,
+    "name": "Echoes of Aincrad",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244210/25fb6350451b21ca824562c8d1eebe89091347cc/header.jpg?t=1784167139"
+  },
+  {
     "appid": 602790,
     "name": "Fated Souls 3",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602790/header.jpg?t=1730472938"
@@ -77,7 +82,7 @@
   {
     "appid": 739630,
     "name": "Phasmophobia",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/c227a2855aba60f3657bc0c3a46515b8c41fb2b6/header.jpg?t=1782311537"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/c7db4897b9905cfc91da2a46383f716338a48bdd/header_alt_assets_11.jpg?t=1784637253"
   },
   {
     "appid": 2799860,
@@ -143,10 +148,5 @@
     "appid": 2069250,
     "name": "High On Life 2",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2069250/14a0a45da992ca33d59eb318b5cb9598c070e1c1/header.jpg?t=1782498352"
-  },
-  {
-    "appid": 2624870,
-    "name": "Life is Strange: Reunion",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2624870/09c486f1ebf7c30ebf3abf5df054833b03c3367d/header.jpg?t=1777999087"
   }
 ]
