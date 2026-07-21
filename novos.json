@@ -1,5 +1,10 @@
 [
   {
+    "appid": 2706020,
+    "name": "ALL WILL FALL",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2706020/header.jpg?t=1782374477"
+  },
+  {
     "appid": 2244210,
     "name": "Echoes of Aincrad",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244210/25fb6350451b21ca824562c8d1eebe89091347cc/header.jpg?t=1784167139"
@@ -143,10 +148,5 @@
     "appid": 1583230,
     "name": "High On Life",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1583230/header.jpg?t=1784209886"
-  },
-  {
-    "appid": 2069250,
-    "name": "High On Life 2",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2069250/14a0a45da992ca33d59eb318b5cb9598c070e1c1/header.jpg?t=1782498352"
   }
 ]
