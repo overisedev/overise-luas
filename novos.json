@@ -1,8 +1,13 @@
 [
   {
+    "appid": 3326230,
+    "name": "Hozy",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326230/abe77fa1d9d2452e2b59d785fd6058e8b33868db/header.jpg?t=1784629550"
+  },
+  {
     "appid": 3614460,
     "name": "Hypermarket Simulator",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3614460/7164560577d78723e0ea09c758759ab125aa2f9c/header.jpg?t=1783335859"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3614460/7164560577d78723e0ea09c758759ab125aa2f9c/header.jpg?t=1784988730"
   },
   {
     "appid": 3928990,
@@ -143,10 +148,5 @@
     "appid": 3258290,
     "name": "Equinox: Homecoming",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3258290/3ce312e5ca8c41f5ecfdbec9e7c7698bce75f74b/header.jpg?t=1772704046"
-  },
-  {
-    "appid": 2188430,
-    "name": "Equinox",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2188430/header.jpg?t=1668218237"
   }
 ]
