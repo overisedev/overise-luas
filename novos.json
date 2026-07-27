@@ -1,5 +1,10 @@
 [
   {
+    "appid": 2424420,
+    "name": "Avatar Legends: The Fighting Game",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2424420/30d44f94173fde20d7338f01611c6b5c7618e07e/header.jpg?t=1784909230"
+  },
+  {
     "appid": 2253100,
     "name": "Everwind",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2253100/81c5fb1f7602d9fe92ae9971e9c2b587e6cbeb54/header.jpg?t=1782396485"
@@ -132,7 +137,7 @@
   {
     "appid": 2706020,
     "name": "ALL WILL FALL",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2706020/header.jpg?t=1782374477"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2706020/header.jpg?t=1785179854"
   },
   {
     "appid": 2244210,
@@ -143,10 +148,5 @@
     "appid": 602790,
     "name": "Fated Souls 3",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602790/header.jpg?t=1730472938"
-  },
-  {
-    "appid": 3922100,
-    "name": "Forest Doesn’t Care",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3922100/dafd6a74300b20d3e261cf852ef8470b17355498/header.jpg?t=1785165282"
   }
 ]
