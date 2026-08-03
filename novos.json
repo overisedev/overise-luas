@@ -1,5 +1,10 @@
 [
   {
+    "appid": 3345950,
+    "name": "Capote",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3345950/399ec03abea9ae3e4e1ea4793389b1d6288cdf93/header.jpg?t=1778081928"
+  },
+  {
     "appid": 951770,
     "name": "Forsaken Realms: Vahrin's Call",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/951770/ac53ffab1226cc77b66695613cdce0bed2be4278/header.jpg?t=1785164441"
@@ -132,7 +137,7 @@
   {
     "appid": 4286120,
     "name": "Photomaly",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286120/18b61f7a1390d9f0d80c5d9058a8f1ee78884fef/header.jpg?t=1784643115"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286120/18b61f7a1390d9f0d80c5d9058a8f1ee78884fef/header.jpg?t=1785764223"
   },
   {
     "appid": 3326230,
@@ -143,10 +148,5 @@
     "appid": 3614460,
     "name": "Hypermarket Simulator",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3614460/7164560577d78723e0ea09c758759ab125aa2f9c/header.jpg?t=1785356063"
-  },
-  {
-    "appid": 3928990,
-    "name": "Food Processing Simulator",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3928990/eac411f79e01598aecf585c4f62655248224da7a/header.jpg?t=1785419213"
   }
 ]
