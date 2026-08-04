@@ -1,5 +1,10 @@
 [
   {
+    "appid": 2001760,
+    "name": "Beast of Reincarnation",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001760/d068139fe039e26a6a9d9f57ac5d89785b984d33/header.jpg?t=1785803603"
+  },
+  {
     "appid": 3595270,
     "name": "Call of Duty®: Modern Warfare® III",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595270/7d0f21912a075c33bbb5ea558100e187ceb234ac/header.jpg?t=1778886604"
@@ -143,10 +148,5 @@
     "appid": 4286120,
     "name": "Photomaly",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286120/18b61f7a1390d9f0d80c5d9058a8f1ee78884fef/header.jpg?t=1785764223"
-  },
-  {
-    "appid": 3326230,
-    "name": "Hozy",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326230/abe77fa1d9d2452e2b59d785fd6058e8b33868db/header.jpg?t=1785513969"
   }
 ]
