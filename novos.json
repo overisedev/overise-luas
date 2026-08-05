@@ -1,13 +1,13 @@
 [
   {
-    "appid": 3321460,
-    "name": "Crimson Desert",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/header.jpg"
+    "appid": 2840770,
+    "name": "Avatar: Frontiers of Pandora™",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2840770/27aa6d8f9c3f11dc93a557164d30a9ba08a7c46a/header.jpg?t=1778598692"
   },
   {
-    "appid": 2840770,
-    "name": "Avatar: Frontiers of Pandora",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2840770/header.jpg"
+    "appid": 3321460,
+    "name": "Crimson Desert",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/abd7dbdeaede8b6c9a6d40bf116ff2b883f2dd45/header.jpg?t=1781661893"
   },
   {
     "appid": 502500,
@@ -148,15 +148,5 @@
     "appid": 4570720,
     "name": "DragonSword : Awakening",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570720/96a897e98f4472e656fbe6681191b3066cab6056/header.jpg?t=1785492030"
-  },
-  {
-    "appid": 3914860,
-    "name": "Moss: The Forgotten Relic ",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3914860/0559b495ccbdcca5ff81fdd0b3e06db05c3c3a8e/header.jpg?t=1784211072"
-  },
-  {
-    "appid": 4324480,
-    "name": "Dirty Business",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4324480/0bf41369aa9d8f70fd5b1dfcf9b71b0a5b1074f3/header.jpg?t=1785492302"
   }
 ]
