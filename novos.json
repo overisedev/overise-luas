@@ -1,5 +1,10 @@
 [
   {
+    "appid": 1985820,
+    "name": "Call of Duty®: Vanguard",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1985820/header.jpg?t=1780964151"
+  },
+  {
     "appid": 2840770,
     "name": "Avatar: Frontiers of Pandora™",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2840770/27aa6d8f9c3f11dc93a557164d30a9ba08a7c46a/header.jpg?t=1778598692"
@@ -57,7 +62,7 @@
   {
     "appid": 951770,
     "name": "Forsaken Realms: Vahrin's Call",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/951770/ac53ffab1226cc77b66695613cdce0bed2be4278/header.jpg?t=1785164441"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/951770/ac53ffab1226cc77b66695613cdce0bed2be4278/header.jpg?t=1785940489"
   },
   {
     "appid": 1812620,
@@ -67,7 +72,7 @@
   {
     "appid": 1913120,
     "name": "Tears of Metal",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1913120/9c62adaca165c8bc1a78990419e2cb35dd940b6b/header.jpg?t=1784995292"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1913120/9c62adaca165c8bc1a78990419e2cb35dd940b6b/header.jpg?t=1785940004"
   },
   {
     "appid": 2246340,
@@ -143,10 +148,5 @@
     "appid": 2253100,
     "name": "Everwind",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2253100/81c5fb1f7602d9fe92ae9971e9c2b587e6cbeb54/header.jpg?t=1782396485"
-  },
-  {
-    "appid": 4570720,
-    "name": "DragonSword : Awakening",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570720/96a897e98f4472e656fbe6681191b3066cab6056/header.jpg?t=1785492030"
   }
 ]
