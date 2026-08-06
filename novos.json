@@ -1,8 +1,28 @@
 [
   {
+    "appid": 3712080,
+    "name": "Funnel Runners",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3712080/5e03554f7fd68edf54813a8d5a576a8791672227/header.jpg?t=1784567934"
+  },
+  {
+    "appid": 1617400,
+    "name": "The Bazaar",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1617400/eac2893cccab684a615561e84831b6d4f7a39410/header.jpg?t=1775066388"
+  },
+  {
+    "appid": 2928600,
+    "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928600/f8a7d046233fb84b20fc546c98b8e2d3f3439033/header.jpg?t=1779926556"
+  },
+  {
+    "appid": 1674200,
+    "name": "Alaska Gold Fever",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674200/5040e18cd24479ff19fdda1a557c320496a91d5c/header.jpg?t=1785844275"
+  },
+  {
     "appid": 2438330,
     "name": "Pale Coins",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2438330/e7688389d9856c630237f71454933d94dc1b5f58/header.jpg?t=1781712571"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2438330/e7688389d9856c630237f71454933d94dc1b5f58/header.jpg?t=1786036618"
   },
   {
     "appid": 1985820,
@@ -10,14 +30,14 @@
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1985820/header.jpg?t=1780964151"
   },
   {
-    "appid": 2840770,
-    "name": "Avatar: Frontiers of Pandora™",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2840770/27aa6d8f9c3f11dc93a557164d30a9ba08a7c46a/header.jpg?t=1778598692"
-  },
-  {
     "appid": 3321460,
     "name": "Crimson Desert",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/abd7dbdeaede8b6c9a6d40bf116ff2b883f2dd45/header.jpg?t=1781661893"
+  },
+  {
+    "appid": 2840770,
+    "name": "Avatar: Frontiers of Pandora™",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2840770/27aa6d8f9c3f11dc93a557164d30a9ba08a7c46a/header.jpg?t=1778598692"
   },
   {
     "appid": 502500,
@@ -128,25 +148,5 @@
     "appid": 939850,
     "name": "The Dark Pictures Anthology: Man of Medan",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939850/header.jpg?t=1728913265"
-  },
-  {
-    "appid": 976730,
-    "name": "Halo: The Master Chief Collection",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/header.jpg?t=1774466074"
-  },
-  {
-    "appid": 2058200,
-    "name": "Showrunner",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058200/header.jpg?t=1710700828"
-  },
-  {
-    "appid": 3440070,
-    "name": "Dinoblade",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440070/d3bb8fe273de5f89504044835ff413c938552ed4/header.jpg?t=1784885012"
-  },
-  {
-    "appid": 2424420,
-    "name": "Avatar Legends: The Fighting Game",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2424420/30d44f94173fde20d7338f01611c6b5c7618e07e/header.jpg?t=1785869384"
   }
 ]
