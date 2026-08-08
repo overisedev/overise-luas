@@ -1,5 +1,15 @@
 [
   {
+    "appid": 2632240,
+    "name": "Pompeii: The Legacy",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2632240/8c5a16635913dd4cda31d92509bf3e80fac4e2dd/header.jpg?t=1781037745"
+  },
+  {
+    "appid": 987840,
+    "name": "Expeditions: Rome",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/987840/header.jpg?t=1786105603"
+  },
+  {
     "appid": 1787090,
     "name": "MyDockFinder",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1787090/header.jpg?t=1751263441"
@@ -138,15 +148,5 @@
     "appid": 3361510,
     "name": "Coal LLC",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361510/464a07362fbcfc902988b469725e65e049d7260d/header.jpg?t=1776327387"
-  },
-  {
-    "appid": 1238080,
-    "name": "Burnout™ Paradise Remastered",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238080/header.jpg?t=1779987578"
-  },
-  {
-    "appid": 1361510,
-    "name": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361510/header.jpg?t=1782982752"
   }
 ]
