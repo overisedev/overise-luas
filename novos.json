@@ -1,5 +1,10 @@
 [
   {
+    "appid": 3527290,
+    "name": "PEAK",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1775581133"
+  },
+  {
     "appid": 2632240,
     "name": "Pompeii: The Legacy",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2632240/8c5a16635913dd4cda31d92509bf3e80fac4e2dd/header.jpg?t=1781037745"
@@ -143,10 +148,5 @@
     "appid": 697580,
     "name": "Screamer",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/697580/header.jpg?t=1762284349"
-  },
-  {
-    "appid": 3361510,
-    "name": "Coal LLC",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361510/464a07362fbcfc902988b469725e65e049d7260d/header.jpg?t=1776327387"
   }
 ]
