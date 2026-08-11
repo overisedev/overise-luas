@@ -47,17 +47,17 @@
   {
     "appid": 3527290,
     "name": "PEAK",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1775581133"
-  },
-  {
-    "appid": 2632240,
-    "name": "Pompeii: The Legacy",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2632240/8c5a16635913dd4cda31d92509bf3e80fac4e2dd/header.jpg?t=1781037745"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/89f65be18915d2dc5566de1de322379d62c1dcac/header_alt_assets_3.jpg?t=1786470571"
   },
   {
     "appid": 987840,
     "name": "Expeditions: Rome",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/987840/header.jpg?t=1786105603"
+  },
+  {
+    "appid": 2632240,
+    "name": "Pompeii: The Legacy",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2632240/8c5a16635913dd4cda31d92509bf3e80fac4e2dd/header.jpg?t=1781037745"
   },
   {
     "appid": 1787090,
@@ -110,14 +110,14 @@
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1985820/header.jpg?t=1780964151"
   },
   {
-    "appid": 2840770,
-    "name": "Avatar: Frontiers of Pandora™",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2840770/27aa6d8f9c3f11dc93a557164d30a9ba08a7c46a/header.jpg?t=1778598692"
-  },
-  {
     "appid": 3321460,
     "name": "Crimson Desert",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/abd7dbdeaede8b6c9a6d40bf116ff2b883f2dd45/header.jpg?t=1781661893"
+  },
+  {
+    "appid": 2840770,
+    "name": "Avatar: Frontiers of Pandora™",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2840770/27aa6d8f9c3f11dc93a557164d30a9ba08a7c46a/header.jpg?t=1778598692"
   },
   {
     "appid": 502500,
