@@ -65,11 +65,6 @@
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495140/header.jpg?t=1701305352"
   },
   {
-    "appid": 368500,
-    "name": "Assassin's Creed® Syndicate",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368500/header.jpg?t=1766772262"
-  },
-  {
     "appid": 543870,
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 2",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/543870/header.jpg?t=1701323477"
@@ -78,6 +73,11 @@
     "appid": 33230,
     "name": "Assassin's Creed 2",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/33230/header.jpg?t=1682004272"
+  },
+  {
+    "appid": 368500,
+    "name": "Assassin's Creed® Syndicate",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368500/header.jpg?t=1766772262"
   },
   {
     "appid": 349040,
@@ -135,14 +135,14 @@
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/89f65be18915d2dc5566de1de322379d62c1dcac/header_alt_assets_3.jpg?t=1786470571"
   },
   {
-    "appid": 987840,
-    "name": "Expeditions: Rome",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/987840/header.jpg?t=1786105603"
-  },
-  {
     "appid": 2632240,
     "name": "Pompeii: The Legacy",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2632240/8c5a16635913dd4cda31d92509bf3e80fac4e2dd/header.jpg?t=1781037745"
+  },
+  {
+    "appid": 987840,
+    "name": "Expeditions: Rome",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/987840/header.jpg?t=1786105603"
   },
   {
     "appid": 1787090,
