@@ -1,5 +1,10 @@
 [
   {
+    "appid": 269950,
+    "name": "X-Plane 11",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/header.jpg?t=1784279193"
+  },
+  {
     "appid": 1265920,
     "name": "Life is Strange Remastered",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1265920/header.jpg?t=1779117636"
@@ -143,10 +148,5 @@
     "appid": 1787090,
     "name": "MyDockFinder",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1787090/header.jpg?t=1751263441"
-  },
-  {
-    "appid": 3812600,
-    "name": "ReStory: Chill Electronics Repairs",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/0b5254eaa1a99cf9e7bcf47ab3446952977942ff/header_alt_assets_3_portuguese.jpg?t=1786119982"
   }
 ]
