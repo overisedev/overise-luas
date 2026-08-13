@@ -1,5 +1,10 @@
 [
   {
+    "appid": 2661300,
+    "name": "Grounded 2",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/b52405d3dd3d4bfd356cd9af7b399bcbc5a23f7e/header.jpg?t=1786582449"
+  },
+  {
     "appid": 2523770,
     "name": "The Lord of the Rings: War in the North™ - Legacy Edition",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2523770/ce49411b23ef7bfe8dd88c1c58f29a4584cf961e/header.jpg?t=1786466870"
@@ -87,7 +92,7 @@
   {
     "appid": 33230,
     "name": "Assassin's Creed 2",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/33230/header.jpg?t=1682004272"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/33230/header.jpg?t=1786611094"
   },
   {
     "appid": 368500,
@@ -143,10 +148,5 @@
     "appid": 4415880,
     "name": "The Family Trip",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4415880/2515e5faa0a653f8f7275850013487fdd743b4d3/header.jpg?t=1777741231"
-  },
-  {
-    "appid": 3527290,
-    "name": "PEAK",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/89f65be18915d2dc5566de1de322379d62c1dcac/header_alt_assets_3.jpg?t=1786470571"
   }
 ]
