@@ -1,5 +1,15 @@
 [
   {
+    "appid": 2483190,
+    "name": "Forza Horizon 6",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/aec13616ef2adf9908ab2bf185f6e0557d6603ef/header_alt_assets_3.jpg?t=1786467254"
+  },
+  {
+    "appid": 960090,
+    "name": "Bloons TD 6",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960090/header.jpg?t=1782123772"
+  },
+  {
     "appid": 4992070,
     "name": "Sort Them Ducks",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4992070/52ee7fca29b20f089decc254088b4beba0eea112/header.jpg?t=1786629601"
@@ -138,15 +148,5 @@
     "appid": 204360,
     "name": "Castle Crashers®",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204360/header.jpg?t=1764096331"
-  },
-  {
-    "appid": 2515020,
-    "name": "FINAL FANTASY XVI",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515020/header.jpg?t=1773294537"
-  },
-  {
-    "appid": 3814680,
-    "name": "Huntsman",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3814680/8aaa0a3d6cfae06a6b01b9ef2d71a297d5525189/header.jpg?t=1782129622"
   }
 ]
