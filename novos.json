@@ -1,5 +1,10 @@
 [
   {
+    "appid": 3562580,
+    "name": "Agefield High: Rock the School",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3562580/a8e9cf70e0a843030ada838228d7414b90bdcdd3/header.jpg?t=1786643387"
+  },
+  {
     "appid": 3526710,
     "name": "Everything is Crab: The Animal Evolution Roguelite",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3526710/5dfb7336e99feadf3b4f41bab5049b793afa0208/header_alt_assets_2.jpg?t=1786620394"
@@ -143,10 +148,5 @@
     "appid": 3381680,
     "name": "Age of History 2: Definitive Edition",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381680/8446ec6de574aed453a768488d0fae5c2ec6fc47/header.jpg?t=1785853215"
-  },
-  {
-    "appid": 1235140,
-    "name": "Yakuza: Like a Dragon",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235140/header.jpg?t=1781264130"
   }
 ]
