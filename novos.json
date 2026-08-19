@@ -1,5 +1,10 @@
 [
   {
+    "appid": 629520,
+    "name": "Soundpad",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629520/header.jpg?t=1760026851"
+  },
+  {
     "appid": 1671210,
     "name": "DELTARUNE",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/7ccda5b1631d2e60cc756a3271e845dbb9168821/header.jpg?t=1782314340"
@@ -143,10 +148,5 @@
     "appid": 269950,
     "name": "X-Plane 11",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/header.jpg?t=1784279193"
-  },
-  {
-    "appid": 1265920,
-    "name": "Life is Strange Remastered",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1265920/header.jpg?t=1779117636"
   }
 ]
