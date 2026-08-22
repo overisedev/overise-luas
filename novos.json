@@ -1,5 +1,10 @@
 [
   {
+    "appid": 1238810,
+    "name": "Battlefield™ V",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/header.jpg?t=1772707365"
+  },
+  {
     "appid": 212500,
     "name": "The Lord of the Rings Online™",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212500/header.jpg?t=1776971245"
@@ -143,10 +148,5 @@
     "appid": 3526710,
     "name": "Everything is Crab: The Animal Evolution Roguelite",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3526710/5dfb7336e99feadf3b4f41bab5049b793afa0208/header_alt_assets_2.jpg?t=1787067079"
-  },
-  {
-    "appid": 3994790,
-    "name": "DJ Life Simulator: Learn to DJ for Real",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3994790/432fcc00aeaffb32038ed22db1df265d9c65770f/header.jpg?t=1785337496"
   }
 ]
