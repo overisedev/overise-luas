@@ -1,5 +1,10 @@
 [
   {
+    "appid": 3949550,
+    "name": "1666: Amsterdam",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949550/0d198ca7648797d7ab2765f362100aa0f7f3eeb9/header.jpg?t=1787686479"
+  },
+  {
     "appid": 385730,
     "name": "WWE 2K16",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/385730/header.jpg?t=1572397400"
@@ -22,7 +27,7 @@
   {
     "appid": 2713000,
     "name": "Resonance: A Plague Tale Legacy",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2713000/fd497979801c646561040243e1aa64a73d11f13a/header.jpg?t=1787682174"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2713000/fd497979801c646561040243e1aa64a73d11f13a/header.jpg?t=1787750419"
   },
   {
     "appid": 939960,
@@ -107,7 +112,7 @@
   {
     "appid": 742300,
     "name": "Mega Man 11",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/742300/header.jpg?t=1770613022"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/742300/header.jpg?t=1787717265"
   },
   {
     "appid": 363440,
@@ -127,7 +132,7 @@
   {
     "appid": 2584270,
     "name": "Mortal Shell II",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/0a4c23b70ced29fac344186ea564dae67c80cfd6/header.jpg?t=1787666100"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/0a4c23b70ced29fac344186ea564dae67c80cfd6/header.jpg?t=1787749756"
   },
   {
     "appid": 516750,
@@ -143,10 +148,5 @@
     "appid": 541570,
     "name": "Sally Face - Episode One",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/541570/header.jpg?t=1787576437"
-  },
-  {
-    "appid": 2085540,
-    "name": "Stick It to the Stickman",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2085540/d36fdf253322e18d762a21358865af31bcb7d45e/header.jpg?t=1786707863"
   }
 ]
