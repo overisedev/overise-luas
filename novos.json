@@ -1,5 +1,10 @@
 [
   {
+    "appid": 1468810,
+    "name": "鬼谷八荒 Tale of Immortal",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1468810/header.jpg?t=1769479020"
+  },
+  {
     "appid": 393080,
     "name": "Call of Duty®: Modern Warfare® Remastered (2017)",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393080/header.jpg?t=1780963789"
@@ -32,7 +37,7 @@
   {
     "appid": 4315040,
     "name": "Hearth and Hamlet",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/7afcb87494b3ac1f383592a87ab952c1e1d64b2d/header.jpg?t=1787170538"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/7afcb87494b3ac1f383592a87ab952c1e1d64b2d/header.jpg?t=1787976009"
   },
   {
     "appid": 1605850,
@@ -143,10 +148,5 @@
     "appid": 242760,
     "name": "The Forest",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/header.jpg?t=1699381053"
-  },
-  {
-    "appid": 629520,
-    "name": "Soundpad",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629520/ab89598a7a660ab510473c72e3cf64886c85421c/header.jpg?t=1787580093"
   }
 ]
