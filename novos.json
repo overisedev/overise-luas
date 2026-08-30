@@ -1,5 +1,10 @@
 [
   {
+    "appid": 1982150,
+    "name": "RWBY: Arrowfell",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1982150/header.jpg?t=1684980488"
+  },
+  {
     "appid": 2327720,
     "name": "City Car Driving 2.0",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2327720/2a50f033860250e1e3cfe47ca2e3f7514bb54004/header.jpg?t=1784529751"
@@ -143,10 +148,5 @@
     "appid": 201870,
     "name": "Assassin's Creed® Revelations",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201870/header.jpg?t=1739176298"
-  },
-  {
-    "appid": 15100,
-    "name": "Assassin's Creed™: Director's Cut Edition",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/15100/header.jpg?t=1786611018"
   }
 ]
