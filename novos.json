@@ -1,5 +1,10 @@
 [
   {
+    "appid": 1729740,
+    "name": "Luto",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1729740/def13c797b5c98624d24fb0b75d2e57ea0fdbf70/header.jpg?t=1784213685"
+  },
+  {
     "appid": 1794680,
     "name": "Vampire Survivors",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/2e4de652ebe9d4136a989571d207cd0b0e019985/header_alt_assets_10.jpg?t=1787911678"
@@ -143,10 +148,5 @@
     "appid": 277590,
     "name": "Assassin's Creed Freedom Cry",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/277590/header.jpg?t=1747656414"
-  },
-  {
-    "appid": 260210,
-    "name": "Assassin’s Creed® Liberation HD",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/260210/header.jpg?t=1786631835"
   }
 ]
