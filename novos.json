@@ -1,5 +1,10 @@
 [
   {
+    "appid": 3394840,
+    "name": "Clawed",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3394840/header.jpg?t=1786644044"
+  },
+  {
     "appid": 2904040,
     "name": "Cheap Car Repair",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904040/dbcdc51dbc0aa6ef105eb6fef5f1f7f63aa17fa1/header.jpg?t=1786658529"
@@ -82,7 +87,7 @@
   {
     "appid": 3949550,
     "name": "1666: Amsterdam",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949550/0d198ca7648797d7ab2765f362100aa0f7f3eeb9/header.jpg?t=1787844708"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949550/0d198ca7648797d7ab2765f362100aa0f7f3eeb9/header.jpg?t=1788357958"
   },
   {
     "appid": 385730,
@@ -107,7 +112,7 @@
   {
     "appid": 2713000,
     "name": "Resonance: A Plague Tale Legacy",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2713000/fd497979801c646561040243e1aa64a73d11f13a/header.jpg?t=1787925122"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2713000/fd497979801c646561040243e1aa64a73d11f13a/header.jpg?t=1788365423"
   },
   {
     "appid": 939960,
@@ -143,10 +148,5 @@
     "appid": 2375780,
     "name": "Beam Eye Tracker",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2375780/9edc1e52c2ecbf536635e464e6a3653e9cf8414d/header.jpg?t=1784849370"
-  },
-  {
-    "appid": 208480,
-    "name": "Assassin’s Creed® III",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208480/header.jpg?t=1747654274"
   }
 ]
