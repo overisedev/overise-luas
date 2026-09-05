@@ -1,5 +1,10 @@
 [
   {
+    "appid": 4088670,
+    "name": "Ludus Magnatus: Gladiator Manager Simulator",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4088670/1fe2bd33dc97eadf10adeb4d26afc7c27877b557/header.jpg?t=1785522595"
+  },
+  {
     "appid": 2406770,
     "name": "Bodycam",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/98a9d087d958e0dbb292a7e2c7898653c9b411ba/header_alt_assets_0_portuguese.jpg?t=1788548796"
@@ -143,10 +148,5 @@
     "appid": 292730,
     "name": "Call of Duty®: Infinite Warfare",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292730/header.jpg?t=1755558170"
-  },
-  {
-    "appid": 974480,
-    "name": "Echoes of Mystralia",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/974480/39ef1e9bce90e5b68153449ae7b53f8b24ba64d7/header_alt_assets_1_portuguese.jpg?t=1787255564"
   }
 ]
