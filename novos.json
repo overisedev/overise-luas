@@ -1,5 +1,10 @@
 [
   {
+    "appid": 2406770,
+    "name": "Bodycam",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/98a9d087d958e0dbb292a7e2c7898653c9b411ba/header_alt_assets_0_portuguese.jpg?t=1788548796"
+  },
+  {
     "appid": 4317690,
     "name": "Crimson Moon",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317690/43f965890a8f4e64917f20befc50a077036cc015/header.jpg?t=1788551078"
@@ -143,10 +148,5 @@
     "appid": 974480,
     "name": "Echoes of Mystralia",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/974480/39ef1e9bce90e5b68153449ae7b53f8b24ba64d7/header_alt_assets_1_portuguese.jpg?t=1787255564"
-  },
-  {
-    "appid": 1238810,
-    "name": "Battlefield™ V",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/header.jpg?t=1772707365"
   }
 ]
