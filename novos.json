@@ -1,5 +1,10 @@
 [
   {
+    "appid": 2638890,
+    "name": "Onimusha: Way of the Sword",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638890/ce31174fea86d0bafa21b26e853dcd0b7326e36f/header.jpg?t=1788494549"
+  },
+  {
     "appid": 2483190,
     "name": "Forza Horizon 6",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/aec13616ef2adf9908ab2bf185f6e0557d6603ef/header_alt_assets_3.jpg?t=1788545100"
@@ -143,10 +148,5 @@
     "appid": 1139980,
     "name": "Travellers Rest",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139980/b841b8cba7cd65e65d9f03680f09a99552c8a6d7/header_alt_assets_7.jpg?t=1786094805"
-  },
-  {
-    "appid": 2713000,
-    "name": "Resonance: A Plague Tale Legacy",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2713000/fd497979801c646561040243e1aa64a73d11f13a/header.jpg?t=1788365423"
   }
 ]
