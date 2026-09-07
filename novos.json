@@ -1,5 +1,10 @@
 [
   {
+    "appid": 1004750,
+    "name": "WRC 8 FIA World Rally Championship",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1004750/header.jpg?t=1725354099"
+  },
+  {
     "appid": 3230400,
     "name": "EA SPORTS™ Madden NFL 26",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3230400/979a5bffcde6f49d7e56ca9db6980256d3a96ad6/header.jpg?t=1784225783"
@@ -143,10 +148,5 @@
     "appid": 3949550,
     "name": "1666: Amsterdam",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949550/0d198ca7648797d7ab2765f362100aa0f7f3eeb9/header.jpg?t=1788357958"
-  },
-  {
-    "appid": 385730,
-    "name": "WWE 2K16",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/385730/header.jpg?t=1572397400"
   }
 ]
