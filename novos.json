@@ -1,5 +1,10 @@
 [
   {
+    "appid": 3230400,
+    "name": "EA SPORTS™ Madden NFL 26",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3230400/979a5bffcde6f49d7e56ca9db6980256d3a96ad6/header.jpg?t=1784225783"
+  },
+  {
     "appid": 4502700,
     "name": "Empire Eleven 2026",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4502700/46428c8b472a90350ca005250442f59aef204e10/header.jpg?t=1787405665"
@@ -97,7 +102,7 @@
   {
     "appid": 3495730,
     "name": "Lucid Blocks",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3495730/804b73d08f2aa2e0aadbc8cf193ccf3ba1dd35e7/header.jpg?t=1786737652"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3495730/804b73d08f2aa2e0aadbc8cf193ccf3ba1dd35e7/header.jpg?t=1788791480"
   },
   {
     "appid": 2825860,
@@ -143,10 +148,5 @@
     "appid": 385730,
     "name": "WWE 2K16",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/385730/header.jpg?t=1572397400"
-  },
-  {
-    "appid": 3958820,
-    "name": "Drive Me Broke",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3958820/e504897779c8608154dc9592fc593d0ca7c07455/header.jpg?t=1787666390"
   }
 ]
