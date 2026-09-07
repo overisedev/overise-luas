@@ -1,8 +1,18 @@
 [
   {
+    "appid": 4502700,
+    "name": "Empire Eleven 2026",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4502700/46428c8b472a90350ca005250442f59aef204e10/header.jpg?t=1787405665"
+  },
+  {
+    "appid": 322330,
+    "name": "Don't Starve Together",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/da5d1bc20a2b35fe987c68047ba96a7f3d25c982/header_alt_assets_50.jpg?t=1782413299"
+  },
+  {
     "appid": 2638890,
     "name": "Onimusha: Way of the Sword",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638890/ce31174fea86d0bafa21b26e853dcd0b7326e36f/header.jpg?t=1788494549"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638890/ce31174fea86d0bafa21b26e853dcd0b7326e36f/header.jpg?t=1788758919"
   },
   {
     "appid": 2483190,
@@ -12,7 +22,7 @@
   {
     "appid": 2827200,
     "name": "MIMESIS",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827200/8a2a6edc97fbf23ea6941974bdf4ed9a6ab34eb4/header.jpg?t=1787626772"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827200/8a2a6edc97fbf23ea6941974bdf4ed9a6ab34eb4/header.jpg?t=1788756516"
   },
   {
     "appid": 4088670,
@@ -37,7 +47,7 @@
   {
     "appid": 3751260,
     "name": "The Blood of Dawnwalker",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/a7062f3b59d491c2678e3fd7ce2672858e480641/header.jpg?t=1788552059"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/a7062f3b59d491c2678e3fd7ce2672858e480641/header.jpg?t=1788784813"
   },
   {
     "appid": 3394840,
@@ -107,7 +117,7 @@
   {
     "appid": 4001890,
     "name": "How to Fish",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1788160834"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1788788717"
   },
   {
     "appid": 1605850,
@@ -138,15 +148,5 @@
     "appid": 3958820,
     "name": "Drive Me Broke",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3958820/e504897779c8608154dc9592fc593d0ca7c07455/header.jpg?t=1787666390"
-  },
-  {
-    "appid": 1337760,
-    "name": "Potion Permit",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1337760/header.jpg?t=1776415949"
-  },
-  {
-    "appid": 1139980,
-    "name": "Travellers Rest",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139980/b841b8cba7cd65e65d9f03680f09a99552c8a6d7/header_alt_assets_7.jpg?t=1786094805"
   }
 ]
