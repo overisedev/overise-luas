@@ -1,5 +1,10 @@
 [
   {
+    "appid": 3846120,
+    "name": "MineMogul",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3846120/5c8238352e4921752576fba9db56a5b824101ea2/header.jpg?t=1781987695"
+  },
+  {
     "appid": 2054970,
     "name": "Dragon's Dogma 2",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/header.jpg?t=1788308490"
@@ -143,10 +148,5 @@
     "appid": 4315040,
     "name": "Hearth and Hamlet",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/7afcb87494b3ac1f383592a87ab952c1e1d64b2d/header.jpg?t=1787976009"
-  },
-  {
-    "appid": 1863670,
-    "name": "Mystwood Manor",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1863670/header.jpg?t=1767134724"
   }
 ]
