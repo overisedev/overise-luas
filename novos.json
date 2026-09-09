@@ -1,5 +1,10 @@
 [
   {
+    "appid": 3751260,
+    "name": "The Blood of Dawnwalker",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/a7062f3b59d491c2678e3fd7ce2672858e480641/header.jpg?t=1788784813"
+  },
+  {
     "appid": 238090,
     "name": "Sniper Elite 3",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238090/header.jpg?t=1601483606"
@@ -73,11 +78,6 @@
     "appid": 1222140,
     "name": "Detroit: Become Human",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg?t=1667468479"
-  },
-  {
-    "appid": 3751260,
-    "name": "The Blood of Dawnwalker",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/a7062f3b59d491c2678e3fd7ce2672858e480641/header.jpg?t=1788784813"
   },
   {
     "appid": 3394840,
