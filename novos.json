@@ -1,5 +1,10 @@
 [
   {
+    "appid": 4164790,
+    "name": "Survival Log",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164790/5f5a1a66f988690c1507b383be89b2869c17e17f/header.jpg?t=1788919491"
+  },
+  {
     "appid": 3124540,
     "name": "Far Far West",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/2d55092d45b1784dcc7cb0ba6ad3f919e62eb5d0/header.jpg?t=1787841818"
@@ -143,10 +148,5 @@
     "appid": 1222140,
     "name": "Detroit: Become Human",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg?t=1667468479"
-  },
-  {
-    "appid": 3394840,
-    "name": "Clawed",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3394840/header.jpg?t=1786644044"
   }
 ]
