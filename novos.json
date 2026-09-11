@@ -1,5 +1,10 @@
 [
   {
+    "appid": 1462040,
+    "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/5f4a0639ed86f988acda525e2ededb4a1689581c/header.jpg?t=1789025421"
+  },
+  {
     "appid": 1942280,
     "name": "Brotato",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942280/f98281910016f8924be37cce3d4b119f5223a358/header.jpg?t=1789029155"
@@ -143,10 +148,5 @@
     "appid": 2827200,
     "name": "MIMESIS",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827200/8a2a6edc97fbf23ea6941974bdf4ed9a6ab34eb4/header.jpg?t=1789122088"
-  },
-  {
-    "appid": 4088670,
-    "name": "Ludus Magnatus: Gladiator Manager Simulator",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4088670/1fe2bd33dc97eadf10adeb4d26afc7c27877b557/header.jpg?t=1785522595"
   }
 ]
