@@ -1,5 +1,10 @@
 [
   {
+    "appid": 1942280,
+    "name": "Brotato",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942280/f98281910016f8924be37cce3d4b119f5223a358/header.jpg?t=1789029155"
+  },
+  {
     "appid": 949230,
     "name": "Cities: Skylines II",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949230/header.jpg?t=1782861918"
@@ -82,7 +87,7 @@
   {
     "appid": 3751260,
     "name": "The Blood of Dawnwalker",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/a7062f3b59d491c2678e3fd7ce2672858e480641/header.jpg?t=1788784813"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/a7062f3b59d491c2678e3fd7ce2672858e480641/header.jpg?t=1789144593"
   },
   {
     "appid": 238090,
@@ -122,7 +127,7 @@
   {
     "appid": 322330,
     "name": "Don't Starve Together",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/da5d1bc20a2b35fe987c68047ba96a7f3d25c982/header_alt_assets_50.jpg?t=1782413299"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/51e5f44e4e38ce02a985687df4fdc8feb678219b/header.jpg?t=1782413299"
   },
   {
     "appid": 2638890,
@@ -137,16 +142,11 @@
   {
     "appid": 2827200,
     "name": "MIMESIS",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827200/8a2a6edc97fbf23ea6941974bdf4ed9a6ab34eb4/header.jpg?t=1788756516"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827200/8a2a6edc97fbf23ea6941974bdf4ed9a6ab34eb4/header.jpg?t=1789122088"
   },
   {
     "appid": 4088670,
     "name": "Ludus Magnatus: Gladiator Manager Simulator",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4088670/1fe2bd33dc97eadf10adeb4d26afc7c27877b557/header.jpg?t=1785522595"
-  },
-  {
-    "appid": 4317690,
-    "name": "Crimson Moon",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317690/43f965890a8f4e64917f20befc50a077036cc015/header.jpg?t=1788551078"
   }
 ]
