@@ -1,5 +1,10 @@
 [
   {
+    "appid": 949230,
+    "name": "Cities: Skylines II",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949230/header.jpg?t=1782861918"
+  },
+  {
     "appid": 4164790,
     "name": "Survival Log",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164790/5f5a1a66f988690c1507b383be89b2869c17e17f/header.jpg?t=1788919491"
@@ -143,10 +148,5 @@
     "appid": 4317690,
     "name": "Crimson Moon",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317690/43f965890a8f4e64917f20befc50a077036cc015/header.jpg?t=1788551078"
-  },
-  {
-    "appid": 1222140,
-    "name": "Detroit: Become Human",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg?t=1667468479"
   }
 ]
