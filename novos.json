@@ -1,5 +1,10 @@
 [
   {
+    "appid": 4010900,
+    "name": "Retro Arcade Shop Simulator",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4010900/705eea09a44aa3cf9e921824351cd4be82368a2c/header.jpg?t=1788519279"
+  },
+  {
     "appid": 3552140,
     "name": "Retro Rewind - Video Store Simulator",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3552140/5be699540829c76a0d5f7ac5db4bbaf23fa76013/header.jpg?t=1782387805"
@@ -143,10 +148,5 @@
     "appid": 3846120,
     "name": "MineMogul",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3846120/5c8238352e4921752576fba9db56a5b824101ea2/header.jpg?t=1781987695"
-  },
-  {
-    "appid": 2054970,
-    "name": "Dragon's Dogma 2",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/header.jpg?t=1788308490"
   }
 ]
