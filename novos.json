@@ -1,8 +1,13 @@
 [
   {
+    "appid": 1144200,
+    "name": "Ready or Not",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/2b44644b033a996a9efb95051bb01809215d0d23/header.jpg?t=1789019569"
+  },
+  {
     "appid": 3071240,
     "name": "Voodoo Fishin'",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3071240/a09810eafb3218a829424143332e4e9e867c60ea/header.jpg?t=1786740797"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3071240/a09810eafb3218a829424143332e4e9e867c60ea/header.jpg?t=1789754035"
   },
   {
     "appid": 2483190,
@@ -22,7 +27,7 @@
   {
     "appid": 3159330,
     "name": "Assassin’s Creed Shadows",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3159330/header.jpg?t=1786637452"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3159330/header.jpg?t=1789746114"
   },
   {
     "appid": 235600,
@@ -37,7 +42,7 @@
   {
     "appid": 4656000,
     "name": "BOMBANANA!",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1789051356"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1789738286"
   },
   {
     "appid": 271590,
@@ -143,10 +148,5 @@
     "appid": 454650,
     "name": "DRAGON BALL XENOVERSE 2",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454650/header.jpg?t=1788407827"
-  },
-  {
-    "appid": 958400,
-    "name": "Project CARS 3",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/958400/header.jpg?t=1756079735"
   }
 ]
