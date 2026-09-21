@@ -1,5 +1,10 @@
 [
   {
+    "appid": 1004640,
+    "name": "FINAL FANTASY TACTICS - The Ivalice Chronicles",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1004640/2d8e4389e157b62f07bdc7c9468bf04010d574c0/header.jpg?t=1789614656"
+  },
+  {
     "appid": 2406770,
     "name": "Bodycam",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/98a9d087d958e0dbb292a7e2c7898653c9b411ba/header_alt_assets_0_portuguese.jpg?t=1788548796"
@@ -143,10 +148,5 @@
     "appid": 1290270,
     "name": "Vampire: The Masquerade — Night Road",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290270/header.jpg?t=1734034616"
-  },
-  {
-    "appid": 1630110,
-    "name": "Gungrave G.O.R.E",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1630110/header.jpg?t=1728053351"
   }
 ]
