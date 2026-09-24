@@ -1,5 +1,10 @@
 [
   {
+    "appid": 599140,
+    "name": "Graveyard Keeper",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/599140/07a4abf278d3029bec1bf7dcff9b2852bdde5250/header.jpg?t=1789490186"
+  },
+  {
     "appid": 4358690,
     "name": "Graveyard Keeper 2",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358690/77b3cff49c45431ec507e6da5e41383050362c35/header_alt_assets_1.jpg?t=1790169326"
@@ -143,10 +148,5 @@
     "appid": 4164790,
     "name": "Survival Log",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164790/5f5a1a66f988690c1507b383be89b2869c17e17f/header.jpg?t=1788919491"
-  },
-  {
-    "appid": 3124540,
-    "name": "Far Far West",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/2d55092d45b1784dcc7cb0ba6ad3f919e62eb5d0/header.jpg?t=1787841818"
   }
 ]
