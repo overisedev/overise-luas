@@ -22,12 +22,12 @@
   {
     "appid": 3375110,
     "name": "Tiny Eden",
-    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3375110/header.jpg"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3375110/0b5b185315c8df684c2566c2e9c74fb85432b9aa/header.jpg?t=1788941142"
   },
   {
     "appid": 1510440,
     "name": "Honeycomb: The World Beyond",
-    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1510440/header.jpg"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1510440/6f377fa8333ebcdc4774f4855f96241019ebacf6/header.jpg?t=1789039133"
   },
   {
     "appid": 1636440,
@@ -37,7 +37,7 @@
   {
     "appid": 599140,
     "name": "Graveyard Keeper",
-    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/599140/header.jpg"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/599140/07a4abf278d3029bec1bf7dcff9b2852bdde5250/header.jpg?t=1789490186"
   },
   {
     "appid": 4358690,
@@ -67,12 +67,12 @@
   {
     "appid": 227300,
     "name": "Euro Truck Simulator 2",
-    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/227300/header.jpg"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/4f6ff00d3732ed0da2e28a4e7182f0036df8ab90/header_alt_assets_8.jpg?t=1790001194"
   },
   {
     "appid": 1451190,
     "name": "Undisputed",
-    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1451190/header.jpg"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451190/header.jpg?t=1766067946"
   },
   {
     "appid": 4450620,
@@ -82,7 +82,7 @@
   {
     "appid": 1144200,
     "name": "Ready or Not",
-    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1144200/header.jpg"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/2b44644b033a996a9efb95051bb01809215d0d23/header.jpg?t=1789019569"
   },
   {
     "appid": 3071240,
@@ -97,17 +97,17 @@
   {
     "appid": 573090,
     "name": "Stormworks: Build and Rescue",
-    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/573090/header.jpg"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573090/header.jpg?t=1772367420"
   },
   {
     "appid": 3159330,
     "name": "Assassin’s Creed Shadows",
-    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3159330/header.jpg"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3159330/header.jpg?t=1789746114"
   },
   {
     "appid": 235600,
     "name": "Tom Clancy’s Splinter Cell Blacklist",
-    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/235600/header.jpg"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/235600/header.jpg?t=1764775433"
   },
   {
     "appid": 591560,
@@ -117,7 +117,7 @@
   {
     "appid": 4656000,
     "name": "BOMBANANA!",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1789738286"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1790377390"
   },
   {
     "appid": 271590,
@@ -147,6 +147,6 @@
   {
     "appid": 2358720,
     "name": "Black Myth: Wukong",
-    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2358720/header.jpg"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/header.jpg?t=1760601605"
   }
 ]
