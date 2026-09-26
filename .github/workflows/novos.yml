@@ -5,10 +5,14 @@ on:
     paths:
       - '*.zip'            # roda quando você sobe/atualiza um {appid}.zip
       - '!curados.zip'     # mas NAO quando o proprio bundle muda (evita loop infinito)
-  workflow_dispatch:        # botão "Run workflow" (pra rodar manual a 1ª vez)
+  workflow_dispatch:        # botão "Run workflow" (pra rodar manual)
 
 permissions:
   contents: write
+
+concurrency:
+  group: novos
+  cancel-in-progress: false   # nao cancela: enfileira, evita run de delete sobrescrever o do re-add
 
 jobs:
   gerar:
@@ -23,19 +27,29 @@ jobs:
           python3 - <<'PY'
           import os, re, json, subprocess, urllib.request, time
 
-          # 1) todos os {appid}.zip da raiz
+          # 1) todos os {appid}.zip da raiz, ordenados pelos mais recem-adicionados
           files = [f for f in os.listdir('.') if re.fullmatch(r'\d+\.zip', f)]
-
-          # 2) ordena pelos mais recém-adicionados (data do commit que criou cada arquivo)
           def added_at(f):
-              out = subprocess.run(
-                  ['git', 'log', '--diff-filter=A', '--format=%at', '-1', '--', f],
-                  capture_output=True, text=True).stdout.strip()
+              out = subprocess.run(['git','log','--diff-filter=A','--format=%at','-1','--',f],
+                                   capture_output=True, text=True).stdout.strip()
               return int(out) if out.isdigit() else 0
           files.sort(key=added_at, reverse=True)
-          files = files[:30]   # mostra os 30 mais novos
+          files = files[:30]
 
-          # 3) overrides manuais de nome (OPCIONAL): crie nomes.json = {"3764200":"Resident Evil Requiem"}
+          # 2) CACHE: reusa nomes e capas JA BONS do novos.json atual (se a Steam falhar, NAO regride)
+          cache, cache_img = {}, {}
+          if os.path.exists('novos.json'):
+              try:
+                  for g in json.load(open('novos.json', encoding='utf-8')):
+                      n = (g.get('name') or '')
+                      if n and not n.startswith('App '):
+                          cache[str(g.get('appid'))] = n
+                      if g.get('img'):
+                          cache_img[str(g.get('appid'))] = g['img']
+              except Exception as e:
+                  print('cache novos.json:', e)
+
+          # 3) overrides manuais opcionais (nomes.json = {"3764200":"Resident Evil Requiem"})
           overrides = {}
           if os.path.exists('nomes.json'):
               try:
@@ -43,30 +57,36 @@ jobs:
               except Exception as e:
                   print('nomes.json:', e)
 
-          # 4) nome + capa via Steam (o runner do GitHub alcança a Steam, sem o redirect dos clientes)
+          # 4) nome + capa OFICIAL via Steam com RETRY. A capa TEM que vir do header_image: jogos novos
+          #    usam caminho com hash (apps/{id}/{hash}/header.jpg); o caminho generico da 404 neles.
           def steam_info(appid):
-              try:
-                  url = f'https://store.steampowered.com/api/appdetails?appids={appid}&l=portuguese'
-                  req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-                  with urllib.request.urlopen(req, timeout=20) as r:
-                      d = json.load(r)
-                  if d.get(str(appid), {}).get('success'):
-                      data = d[str(appid)]['data']
-                      return data.get('name'), data.get('header_image', '')
-              except Exception as e:
-                  print('info fail', appid, e)
+              for _ in range(3):
+                  try:
+                      url = f'https://store.steampowered.com/api/appdetails?appids={appid}&l=portuguese&filters=basic'
+                      req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+                      with urllib.request.urlopen(req, timeout=20) as r:
+                          d = json.load(r)
+                      # a Steam as vezes responde com OUTRO appid como chave (redirect): pega a 1a resposta
+                      v = next(iter((d or {}).values()), {}) or {}
+                      if v.get('success'):
+                          g = v['data']
+                          return g.get('name'), g.get('header_image', '')
+                      return None, ''
+                  except Exception as e:
+                      print('appdetails fail', appid, e)
+                  time.sleep(1.5)
               return None, ''
 
           novos = []
           for f in files:
               appid = f[:-4]
               nm, img = steam_info(appid)
-              name = overrides.get(appid) or nm or f'App {appid}'
-              novos.append({'appid': int(appid), 'name': name, 'img': img})
-              time.sleep(0.3)   # gentil com a API da Steam
+              nm  = overrides.get(appid) or nm or cache.get(appid) or f'App {appid}'
+              img = img or cache_img.get(appid, '')   # Steam falhou -> mantem a capa que ja funcionava
+              novos.append({'appid': int(appid), 'name': nm, 'img': img})
+              time.sleep(0.8)
 
-          json.dump(novos, open('novos.json', 'w', encoding='utf-8'),
-                    ensure_ascii=False, indent=2)
+          json.dump(novos, open('novos.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
           print(f'novos.json gerado: {len(novos)} jogos')
           PY
 
