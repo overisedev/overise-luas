@@ -1,5 +1,10 @@
 [
   {
+    "appid": 1774580,
+    "name": "STAR WARS Jedi: Survivor™",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1774580/header.jpg?t=1788257050"
+  },
+  {
     "appid": 3214610,
     "name": "Cinderia",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214610/fa3f3ed3d74bc05798082d54eb03e35cfbb05173/header.jpg?t=1787153526"
@@ -143,10 +148,5 @@
     "appid": 4450620,
     "name": "GRAIN ROT",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4450620/697974067797577ee1803c37a44b4217d886502a/header.jpg?t=1786114521"
-  },
-  {
-    "appid": 1144200,
-    "name": "Ready or Not",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/2b44644b033a996a9efb95051bb01809215d0d23/header.jpg?t=1789019569"
   }
 ]
