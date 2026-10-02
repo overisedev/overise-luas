@@ -1,5 +1,10 @@
 [
   {
+    "appid": 2288340,
+    "name": "ACE COMBAT 8: WINGS OF THEVE",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg?t=1790908088"
+  },
+  {
     "appid": 214950,
     "name": "Total War: ROME II - Emperor Edition",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214950/header.jpg?t=1768912466"
@@ -102,7 +107,7 @@
   {
     "appid": 4080220,
     "name": "EA SPORTS FC™ 27",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/ff6a3779f1ca83aae8ad3878454f6c11008ea24d/header.jpg?t=1790875777"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/ff6a3779f1ca83aae8ad3878454f6c11008ea24d/header.jpg?t=1790973254"
   },
   {
     "appid": 2091020,
@@ -143,10 +148,5 @@
     "appid": 3669870,
     "name": "CONTROL Resonant",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg?t=1790673363"
-  },
-  {
-    "appid": 3667390,
-    "name": "Black Hole Fishing",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3667390/4e9a19c4160f281966ab008ba41abd1e95901a49/header_alt_assets_0.jpg?t=1790843347"
   }
 ]
