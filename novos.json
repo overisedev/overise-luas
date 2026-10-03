@@ -1,5 +1,10 @@
 [
   {
+    "appid": 3493540,
+    "name": "Transport Fever 3",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493540/d922d42fbf0d074d86223e68ec8e17e8685c3209/header_alt_assets_0_portuguese.jpg?t=1790777411"
+  },
+  {
     "appid": 2288340,
     "name": "ACE COMBAT 8: WINGS OF THEVE",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg?t=1790908088"
@@ -72,7 +77,7 @@
   {
     "appid": 1912410,
     "name": "Minecraft Dungeons II",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1912410/86cbba83c1aaffa0b0efa4197ce29c2264ea9dc2/header.jpg?t=1790774234"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1912410/86cbba83c1aaffa0b0efa4197ce29c2264ea9dc2/header.jpg?t=1790998164"
   },
   {
     "appid": 292030,
@@ -143,10 +148,5 @@
     "appid": 4358690,
     "name": "Graveyard Keeper 2",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358690/77b3cff49c45431ec507e6da5e41383050362c35/header_alt_assets_1.jpg?t=1790169326"
-  },
-  {
-    "appid": 3669870,
-    "name": "CONTROL Resonant",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg?t=1790673363"
   }
 ]
