@@ -1,8 +1,13 @@
 [
   {
+    "appid": 2054970,
+    "name": "Dragon's Dogma 2",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/header.jpg?t=1791504871"
+  },
+  {
     "appid": 2887580,
     "name": "Active Matter",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2887580/191801a8de4db48075ef195473a922391cb4c6de/header.jpg?t=1790331280"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2887580/191801a8de4db48075ef195473a922391cb4c6de/header.jpg?t=1791626919"
   },
   {
     "appid": 1551980,
@@ -143,10 +148,5 @@
     "appid": 289650,
     "name": "Assassin's Creed® Unity",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289650/header.jpg?t=1786632648"
-  },
-  {
-    "appid": 1659420,
-    "name": "UNCHARTED™: Coleção Legado dos Ladrões",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/header_portuguese.jpg?t=1779309472"
   }
 ]
