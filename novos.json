@@ -1,5 +1,25 @@
 [
   {
+    "appid": 2538870,
+    "name": "False Hero",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2538870/5f4e17a96d9a401cd07e43da947142165c1e790a/header.jpg?t=1790943269"
+  },
+  {
+    "appid": 1368140,
+    "name": "Corsair Cove",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1368140/cafda7c6ff9641cc9ede1823317b835a2b3f38ab/header.jpg?t=1793357698"
+  },
+  {
+    "appid": 4706880,
+    "name": "Grizzy e os Lemmings - Crazy Party",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4706880/8c20008042cd01cc68284d54ab5e5295d11b1736/header_portuguese.jpg?t=1788591724"
+  },
+  {
+    "appid": 1433500,
+    "name": "Hotel Transylvania: Scary-Tale Adventures",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1433500/header.jpg?t=1647006986"
+  },
+  {
     "appid": 2453160,
     "name": "Sword of the Sea",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2453160/0970ad83a138f75b1e48e41780ff2eb5f1d21379/header.jpg?t=1793291257"
@@ -27,7 +47,7 @@
   {
     "appid": 1938090,
     "name": "Call of Duty®",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/23af6cf41e2d09620caa07700a4cb3288dbcbaa8/header.jpg?t=1793206213"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/23af6cf41e2d09620caa07700a4cb3288dbcbaa8/header.jpg?t=1793386059"
   },
   {
     "appid": 1337520,
@@ -128,25 +148,5 @@
     "appid": 2473350,
     "name": "HUNTDOWN: OVERTIME",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473350/8c08851f827d47536bf7e52e8adf968d23c8a600/header.jpg?t=1780387591"
-  },
-  {
-    "appid": 4231820,
-    "name": "Castlevania: Belmont's Curse",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4231820/6b65aec2c398006aea8b76e1463cc34d0e4ba68b/header.jpg?t=1793067818"
-  },
-  {
-    "appid": 3479420,
-    "name": "Okko The Exiled",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479420/header.jpg?t=1790777690"
-  },
-  {
-    "appid": 2080690,
-    "name": "Sunkenland",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2080690/header.jpg?t=1748457033"
-  },
-  {
-    "appid": 227300,
-    "name": "Euro Truck Simulator 2",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/d3c44cfff95e8223687121b05c80e594d35c4c53/header_alt_assets_9.jpg?t=1793285269"
   }
 ]
