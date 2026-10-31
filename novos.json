@@ -1,8 +1,13 @@
 [
   {
+    "appid": 3705900,
+    "name": "President Simulator",
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3705900/901e69507fd99cefdc032a099aedf17743325da3/header.jpg?t=1793227051"
+  },
+  {
     "appid": 2538870,
     "name": "False Hero",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2538870/5f4e17a96d9a401cd07e43da947142165c1e790a/header.jpg?t=1790943269"
+    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2538870/5f4e17a96d9a401cd07e43da947142165c1e790a/header.jpg?t=1793463429"
   },
   {
     "appid": 1368140,
@@ -143,10 +148,5 @@
     "appid": 4049180,
     "name": "Disney/Pixar Toy Story 3 Complete Edition",
     "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4049180/8d4e4c2c303b6bca383f7d3473400236096fbca2/header.jpg?t=1792084145"
-  },
-  {
-    "appid": 2473350,
-    "name": "HUNTDOWN: OVERTIME",
-    "img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473350/8c08851f827d47536bf7e52e8adf968d23c8a600/header.jpg?t=1780387591"
   }
 ]
